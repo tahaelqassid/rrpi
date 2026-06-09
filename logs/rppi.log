@@ -1,0 +1,263 @@
+2026-06-09 22:43:53 | INFO     | ingestion.pipeline:run_ingestion | ╔══════════════════════════════════════════╗
+2026-06-09 22:43:53 | INFO     | ingestion.pipeline:run_ingestion | ║  RPPI Ingestion — 5 cities             ║
+2026-06-09 22:43:53 | INFO     | ingestion.pipeline:run_ingestion | ║  Max pages: 15 · Source: Mubawab.ma    ║
+2026-06-09 22:43:53 | INFO     | ingestion.pipeline:run_ingestion | ╚══════════════════════════════════════════╝
+2026-06-09 22:43:53 | INFO     | ingestion.scrapers.base_scraper:run | [mubawab][casablanca] location...
+2026-06-09 22:43:55 | INFO     | ingestion.scrapers.base_scraper:run |   page 1: 33 listings
+2026-06-09 22:44:00 | INFO     | ingestion.scrapers.base_scraper:run |   page 2: 33 listings
+2026-06-09 22:44:04 | INFO     | ingestion.scrapers.base_scraper:run |   page 3: 33 listings
+2026-06-09 22:44:09 | INFO     | ingestion.scrapers.base_scraper:run |   page 4: 33 listings
+2026-06-09 22:44:14 | INFO     | ingestion.scrapers.base_scraper:run |   page 5: 33 listings
+2026-06-09 22:44:17 | INFO     | ingestion.scrapers.base_scraper:run |   page 6: 33 listings
+2026-06-09 22:44:21 | INFO     | ingestion.scrapers.base_scraper:run |   page 7: 33 listings
+2026-06-09 22:44:27 | INFO     | ingestion.scrapers.base_scraper:run |   page 8: 33 listings
+2026-06-09 22:44:30 | INFO     | ingestion.scrapers.base_scraper:run |   page 9: 33 listings
+2026-06-09 22:44:34 | INFO     | ingestion.scrapers.base_scraper:run |   page 10: 33 listings
+2026-06-09 22:44:37 | INFO     | ingestion.scrapers.base_scraper:run |   page 11: 33 listings
+2026-06-09 22:44:42 | INFO     | ingestion.scrapers.base_scraper:run |   page 12: 33 listings
+2026-06-09 22:44:46 | INFO     | ingestion.scrapers.base_scraper:run |   page 13: 33 listings
+2026-06-09 22:44:49 | INFO     | ingestion.scrapers.base_scraper:run |   page 14: 33 listings
+2026-06-09 22:44:53 | INFO     | ingestion.scrapers.base_scraper:run |   page 15: 33 listings
+2026-06-09 22:44:58 | INFO     | ingestion.scrapers.base_scraper:run | [mubawab][casablanca] vente...
+2026-06-09 22:44:59 | INFO     | ingestion.scrapers.base_scraper:run |   page 1: 33 listings
+2026-06-09 22:45:03 | INFO     | ingestion.scrapers.base_scraper:run |   page 2: 33 listings
+2026-06-09 22:45:08 | INFO     | ingestion.scrapers.base_scraper:run |   page 3: 33 listings
+2026-06-09 22:45:13 | INFO     | ingestion.scrapers.base_scraper:run |   page 4: 33 listings
+2026-06-09 22:45:18 | INFO     | ingestion.scrapers.base_scraper:run |   page 5: 33 listings
+2026-06-09 22:45:24 | INFO     | ingestion.scrapers.base_scraper:run |   page 6: 33 listings
+2026-06-09 22:45:29 | INFO     | ingestion.scrapers.base_scraper:run |   page 7: 33 listings
+2026-06-09 22:45:34 | INFO     | ingestion.scrapers.base_scraper:run |   page 8: 33 listings
+2026-06-09 22:45:39 | INFO     | ingestion.scrapers.base_scraper:run |   page 9: 33 listings
+2026-06-09 22:45:43 | INFO     | ingestion.scrapers.base_scraper:run |   page 10: 33 listings
+2026-06-09 22:45:47 | INFO     | ingestion.scrapers.base_scraper:run |   page 11: 33 listings
+2026-06-09 22:45:53 | INFO     | ingestion.scrapers.base_scraper:run |   page 12: 33 listings
+2026-06-09 22:45:57 | INFO     | ingestion.scrapers.base_scraper:run |   page 13: 33 listings
+2026-06-09 22:46:03 | INFO     | ingestion.scrapers.base_scraper:run |   page 14: 33 listings
+2026-06-09 22:46:07 | INFO     | ingestion.scrapers.base_scraper:run |   page 15: 33 listings
+2026-06-09 22:46:10 | SUCCESS  | ingestion.scrapers.base_scraper:run | [mubawab][casablanca] total: 990
+2026-06-09 22:46:11 | SUCCESS  | ingestion.pipeline:run_ingestion | [casablanca] 990 found → 970 new
+2026-06-09 22:46:11 | INFO     | ingestion.scrapers.base_scraper:run | [mubawab][rabat] location...
+2026-06-09 22:46:13 | INFO     | ingestion.scrapers.base_scraper:run |   page 1: 33 listings
+2026-06-09 22:46:16 | INFO     | ingestion.scrapers.base_scraper:run |   page 2: 33 listings
+2026-06-09 22:46:21 | INFO     | ingestion.scrapers.base_scraper:run |   page 3: 33 listings
+2026-06-09 22:46:26 | INFO     | ingestion.scrapers.base_scraper:run |   page 4: 33 listings
+2026-06-09 22:46:30 | INFO     | ingestion.scrapers.base_scraper:run |   page 5: 33 listings
+2026-06-09 22:46:35 | INFO     | ingestion.scrapers.base_scraper:run |   page 6: 33 listings
+2026-06-09 22:46:40 | INFO     | ingestion.scrapers.base_scraper:run |   page 7: 33 listings
+2026-06-09 22:46:45 | INFO     | ingestion.scrapers.base_scraper:run |   page 8: 33 listings
+2026-06-09 22:46:50 | INFO     | ingestion.scrapers.base_scraper:run |   page 9: 33 listings
+2026-06-09 22:46:53 | INFO     | ingestion.scrapers.base_scraper:run |   page 10: 33 listings
+2026-06-09 22:46:58 | INFO     | ingestion.scrapers.base_scraper:run |   page 11: 33 listings
+2026-06-09 22:47:02 | INFO     | ingestion.scrapers.base_scraper:run |   page 12: 33 listings
+2026-06-09 22:47:07 | INFO     | ingestion.scrapers.base_scraper:run |   page 13: 33 listings
+2026-06-09 22:47:11 | INFO     | ingestion.scrapers.base_scraper:run |   page 14: 33 listings
+2026-06-09 22:47:14 | INFO     | ingestion.scrapers.base_scraper:run |   page 15: 33 listings
+2026-06-09 22:47:19 | INFO     | ingestion.scrapers.base_scraper:run | [mubawab][rabat] vente...
+2026-06-09 22:47:19 | INFO     | ingestion.scrapers.base_scraper:run |   page 1: 33 listings
+2026-06-09 22:47:24 | INFO     | ingestion.scrapers.base_scraper:run |   page 2: 33 listings
+2026-06-09 22:47:28 | INFO     | ingestion.scrapers.base_scraper:run |   page 3: 33 listings
+2026-06-09 22:47:33 | INFO     | ingestion.scrapers.base_scraper:run |   page 4: 33 listings
+2026-06-09 22:47:37 | INFO     | ingestion.scrapers.base_scraper:run |   page 5: 33 listings
+2026-06-09 22:47:42 | INFO     | ingestion.scrapers.base_scraper:run |   page 6: 33 listings
+2026-06-09 22:47:48 | INFO     | ingestion.scrapers.base_scraper:run |   page 7: 33 listings
+2026-06-09 22:47:53 | INFO     | ingestion.scrapers.base_scraper:run |   page 8: 33 listings
+2026-06-09 22:47:56 | INFO     | ingestion.scrapers.base_scraper:run |   page 9: 33 listings
+2026-06-09 22:48:00 | INFO     | ingestion.scrapers.base_scraper:run |   page 10: 33 listings
+2026-06-09 22:48:05 | INFO     | ingestion.scrapers.base_scraper:run |   page 11: 33 listings
+2026-06-09 22:48:10 | INFO     | ingestion.scrapers.base_scraper:run |   page 12: 33 listings
+2026-06-09 22:48:15 | INFO     | ingestion.scrapers.base_scraper:run |   page 13: 33 listings
+2026-06-09 22:48:19 | INFO     | ingestion.scrapers.base_scraper:run |   page 14: 33 listings
+2026-06-09 22:48:23 | INFO     | ingestion.scrapers.base_scraper:run |   page 15: 33 listings
+2026-06-09 22:48:28 | SUCCESS  | ingestion.scrapers.base_scraper:run | [mubawab][rabat] total: 990
+2026-06-09 22:48:30 | SUCCESS  | ingestion.pipeline:run_ingestion | [rabat] 990 found → 963 new
+2026-06-09 22:48:30 | INFO     | ingestion.scrapers.base_scraper:run | [mubawab][marrakech] location...
+2026-06-09 22:48:31 | INFO     | ingestion.scrapers.base_scraper:run |   page 1: 33 listings
+2026-06-09 22:48:35 | INFO     | ingestion.scrapers.base_scraper:run |   page 2: 33 listings
+2026-06-09 22:48:39 | INFO     | ingestion.scrapers.base_scraper:run |   page 3: 33 listings
+2026-06-09 22:48:42 | INFO     | ingestion.scrapers.base_scraper:run |   page 4: 33 listings
+2026-06-09 22:48:47 | INFO     | ingestion.scrapers.base_scraper:run |   page 5: 33 listings
+2026-06-09 22:48:52 | INFO     | ingestion.scrapers.base_scraper:run |   page 6: 33 listings
+2026-06-09 22:48:56 | INFO     | ingestion.scrapers.base_scraper:run |   page 7: 33 listings
+2026-06-09 22:49:00 | INFO     | ingestion.scrapers.base_scraper:run |   page 8: 33 listings
+2026-06-09 22:49:04 | INFO     | ingestion.scrapers.base_scraper:run |   page 9: 33 listings
+2026-06-09 22:49:07 | INFO     | ingestion.scrapers.base_scraper:run |   page 10: 33 listings
+2026-06-09 22:49:11 | INFO     | ingestion.scrapers.base_scraper:run |   page 11: 33 listings
+2026-06-09 22:49:15 | INFO     | ingestion.scrapers.base_scraper:run |   page 12: 33 listings
+2026-06-09 22:49:20 | INFO     | ingestion.scrapers.base_scraper:run |   page 13: 33 listings
+2026-06-09 22:49:25 | INFO     | ingestion.scrapers.base_scraper:run |   page 14: 33 listings
+2026-06-09 22:49:29 | INFO     | ingestion.scrapers.base_scraper:run |   page 15: 33 listings
+2026-06-09 22:49:32 | INFO     | ingestion.scrapers.base_scraper:run | [mubawab][marrakech] vente...
+2026-06-09 22:49:33 | INFO     | ingestion.scrapers.base_scraper:run |   page 1: 33 listings
+2026-06-09 22:49:39 | INFO     | ingestion.scrapers.base_scraper:run |   page 2: 33 listings
+2026-06-09 22:49:44 | INFO     | ingestion.scrapers.base_scraper:run |   page 3: 33 listings
+2026-06-09 22:49:48 | INFO     | ingestion.scrapers.base_scraper:run |   page 4: 33 listings
+2026-06-09 22:49:53 | INFO     | ingestion.scrapers.base_scraper:run |   page 5: 33 listings
+2026-06-09 22:49:58 | INFO     | ingestion.scrapers.base_scraper:run |   page 6: 33 listings
+2026-06-09 22:50:02 | INFO     | ingestion.scrapers.base_scraper:run |   page 7: 33 listings
+2026-06-09 22:50:07 | INFO     | ingestion.scrapers.base_scraper:run |   page 8: 33 listings
+2026-06-09 22:50:12 | INFO     | ingestion.scrapers.base_scraper:run |   page 9: 33 listings
+2026-06-09 22:50:18 | INFO     | ingestion.scrapers.base_scraper:run |   page 10: 33 listings
+2026-06-09 22:50:22 | INFO     | ingestion.scrapers.base_scraper:run |   page 11: 33 listings
+2026-06-09 22:50:27 | INFO     | ingestion.scrapers.base_scraper:run |   page 12: 33 listings
+2026-06-09 22:50:32 | INFO     | ingestion.scrapers.base_scraper:run |   page 13: 33 listings
+2026-06-09 22:50:38 | INFO     | ingestion.scrapers.base_scraper:run |   page 14: 33 listings
+2026-06-09 22:50:42 | INFO     | ingestion.scrapers.base_scraper:run |   page 15: 33 listings
+2026-06-09 22:50:45 | SUCCESS  | ingestion.scrapers.base_scraper:run | [mubawab][marrakech] total: 990
+2026-06-09 22:50:47 | SUCCESS  | ingestion.pipeline:run_ingestion | [marrakech] 990 found → 950 new
+2026-06-09 22:50:47 | INFO     | ingestion.scrapers.base_scraper:run | [mubawab][tanger] location...
+2026-06-09 22:50:48 | INFO     | ingestion.scrapers.base_scraper:run |   page 1: 33 listings
+2026-06-09 22:50:53 | INFO     | ingestion.scrapers.base_scraper:run |   page 2: 33 listings
+2026-06-09 22:50:57 | INFO     | ingestion.scrapers.base_scraper:run |   page 3: 33 listings
+2026-06-09 22:51:01 | INFO     | ingestion.scrapers.base_scraper:run |   page 4: 33 listings
+2026-06-09 22:51:06 | INFO     | ingestion.scrapers.base_scraper:run |   page 5: 33 listings
+2026-06-09 22:51:10 | INFO     | ingestion.scrapers.base_scraper:run |   page 6: 33 listings
+2026-06-09 22:51:14 | INFO     | ingestion.scrapers.base_scraper:run |   page 7: 33 listings
+2026-06-09 22:51:19 | INFO     | ingestion.scrapers.base_scraper:run |   page 8: 33 listings
+2026-06-09 22:51:23 | INFO     | ingestion.scrapers.base_scraper:run |   page 9: 33 listings
+2026-06-09 22:51:28 | INFO     | ingestion.scrapers.base_scraper:run |   page 10: 33 listings
+2026-06-09 22:51:32 | INFO     | ingestion.scrapers.base_scraper:run |   page 11: 33 listings
+2026-06-09 22:51:36 | INFO     | ingestion.scrapers.base_scraper:run |   page 12: 33 listings
+2026-06-09 22:51:42 | INFO     | ingestion.scrapers.base_scraper:run |   page 13: 33 listings
+2026-06-09 22:51:46 | INFO     | ingestion.scrapers.base_scraper:run |   page 14: 33 listings
+2026-06-09 22:51:51 | INFO     | ingestion.scrapers.base_scraper:run |   page 15: 33 listings
+2026-06-09 22:51:55 | INFO     | ingestion.scrapers.base_scraper:run | [mubawab][tanger] vente...
+2026-06-09 22:51:56 | INFO     | ingestion.scrapers.base_scraper:run |   page 1: 33 listings
+2026-06-09 22:52:00 | INFO     | ingestion.scrapers.base_scraper:run |   page 2: 33 listings
+2026-06-09 22:52:04 | INFO     | ingestion.scrapers.base_scraper:run |   page 3: 33 listings
+2026-06-09 22:52:09 | INFO     | ingestion.scrapers.base_scraper:run |   page 4: 33 listings
+2026-06-09 22:52:14 | INFO     | ingestion.scrapers.base_scraper:run |   page 5: 33 listings
+2026-06-09 22:52:19 | INFO     | ingestion.scrapers.base_scraper:run |   page 6: 33 listings
+2026-06-09 22:52:24 | INFO     | ingestion.scrapers.base_scraper:run |   page 7: 33 listings
+2026-06-09 22:52:27 | INFO     | ingestion.scrapers.base_scraper:run |   page 8: 33 listings
+2026-06-09 22:52:31 | INFO     | ingestion.scrapers.base_scraper:run |   page 9: 33 listings
+2026-06-09 22:52:36 | INFO     | ingestion.scrapers.base_scraper:run |   page 10: 33 listings
+2026-06-09 22:52:41 | INFO     | ingestion.scrapers.base_scraper:run |   page 11: 33 listings
+2026-06-09 22:52:45 | INFO     | ingestion.scrapers.base_scraper:run |   page 12: 33 listings
+2026-06-09 22:52:49 | INFO     | ingestion.scrapers.base_scraper:run |   page 13: 33 listings
+2026-06-09 22:52:53 | INFO     | ingestion.scrapers.base_scraper:run |   page 14: 33 listings
+2026-06-09 22:52:58 | INFO     | ingestion.scrapers.base_scraper:run |   page 15: 33 listings
+2026-06-09 22:53:02 | SUCCESS  | ingestion.scrapers.base_scraper:run | [mubawab][tanger] total: 990
+2026-06-09 22:53:03 | SUCCESS  | ingestion.pipeline:run_ingestion | [tanger] 990 found → 989 new
+2026-06-09 22:53:03 | INFO     | ingestion.scrapers.base_scraper:run | [mubawab][fes] location...
+2026-06-09 22:53:04 | WARNING  | ingestion.scrapers.base_scraper:fetch | [mubawab] 404: https://www.mubawab.ma/fr/ct/fes/immobilier-a-louer
+2026-06-09 22:53:04 | INFO     | ingestion.scrapers.base_scraper:run | [mubawab][fes] vente...
+2026-06-09 22:53:04 | WARNING  | ingestion.scrapers.base_scraper:fetch | [mubawab] 404: https://www.mubawab.ma/fr/ct/fes/immobilier-a-vendre
+2026-06-09 22:53:04 | SUCCESS  | ingestion.scrapers.base_scraper:run | [mubawab][fes] total: 0
+2026-06-09 22:53:04 | SUCCESS  | ingestion.pipeline:run_ingestion | [fes] 0 found → 0 new
+2026-06-09 22:53:04 | INFO     | ingestion.pipeline:run_ingestion | ╔══════════════════════════════════════════╗
+2026-06-09 22:53:04 | INFO     | ingestion.pipeline:run_ingestion | ║  INGESTION COMPLETE                      ║
+2026-06-09 22:53:04 | INFO     | ingestion.pipeline:run_ingestion | ║  Total inserted : 3872                  ║
+2026-06-09 22:53:04 | INFO     | ingestion.pipeline:run_ingestion | ║  Time elapsed   : 550s                  ║
+2026-06-09 22:53:04 | INFO     | ingestion.pipeline:run_ingestion | ╚══════════════════════════════════════════╝
+2026-06-09 22:59:38 | INFO     | processing.cleaner:run_cleaning | === Phase 5: Data Cleaning Pipeline ===
+2026-06-09 22:59:39 | INFO     | processing.cleaner:load_raw | [cleaner] Loaded 3872 new raw rows
+2026-06-09 22:59:39 | INFO     | processing.cleaner:remove_duplicates | [cleaner] Dedup: 3872 → 3872
+2026-06-09 22:59:39 | INFO     | processing.cleaner:filter_outliers | [cleaner] Outlier filter: 3872 → 3282 with valid price
+2026-06-09 22:59:39 | INFO     | processing.cleaner:run_cleaning | [cleaner] Valid records: 3282 / 3872
+2026-06-09 22:59:40 | SUCCESS  | processing.cleaner:run_cleaning | [cleaner] Saved 3282 records → /Users/taha/Downloads/rppi_maroc/data/clean/clean_20260609_2159.csv
+2026-06-09 23:00:32 | INFO     | processing.cleaner:run_cleaning | === Phase 5: Data Cleaning Pipeline ===
+2026-06-09 23:00:32 | INFO     | processing.cleaner:load_raw | [cleaner] Loaded 590 new raw rows
+2026-06-09 23:00:32 | INFO     | processing.cleaner:remove_duplicates | [cleaner] Dedup: 590 → 590
+2026-06-09 23:00:32 | INFO     | processing.cleaner:filter_outliers | [cleaner] Outlier filter: 590 → 312 with valid price
+2026-06-09 23:00:32 | INFO     | processing.cleaner:run_cleaning | [cleaner] Valid records: 312 / 590
+2026-06-09 23:00:32 | SUCCESS  | processing.cleaner:run_cleaning | [cleaner] Saved 312 records → /Users/taha/Downloads/rppi_maroc/data/clean/clean_20260609_2200.csv
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic | === Phase 7-8-9: Hedonic Model (location) ===
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:load_data | [hedonic] Loaded 1306 records for transaction=location
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic | [hedonic] Design matrix: 1306 obs × 15 variables
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic | 
+  Model diagnostics:
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |     R²           : 0.5566
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |     Adj. R²      : 0.5521
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |     F-statistic  : 57852.41 (p=0.0000)
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |     N obs        : 1306
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |     AIC          : 1511.36
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |     BIC          : 1583.81
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic | 
+  Key structural coefficients (semi-log interpretation):
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |     surface             : β=0.0004 → +0.0% per unit ***
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |     rooms               : β=0.0863 → +9.0% per unit ***
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |     const               : β=4.5241 → +9121.4% per unit ***
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic | 
+  Price Index (location, base=2024-Q1=100):
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |   Period          Index           CI 95%        γ    p-val
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |   -------------------------------------------------------
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |   2024-Q1        100.00   [100.0–100.0]   0.0000  1.0000 
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |   2026-Q2       9221.42   [8894.4–9560.4]   4.5241  0.0000 ***
+2026-06-09 23:07:18 | SUCCESS  | analytics.hedonic.model:run_hedonic | [hedonic] RPPI saved → /Users/taha/Downloads/rppi_maroc/data/exports/rppi_location_20260609.csv
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic | === Phase 7-8-9: Hedonic Model (vente) ===
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:load_data | [hedonic] Loaded 1012 records for transaction=vente
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic | [hedonic] Design matrix: 1012 obs × 15 variables
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic | 
+  Model diagnostics:
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |     R²           : 0.7297
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |     Adj. R²      : 0.7262
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |     F-statistic  : 83980.53 (p=0.0000)
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |     N obs        : 1012
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |     AIC          : 1378.56
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |     BIC          : 1447.43
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic | 
+  Key structural coefficients (semi-log interpretation):
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |     surface             : β=0.0006 → +0.1% per unit ***
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |     rooms               : β=0.0740 → +7.7% per unit ***
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |     const               : β=7.0421 → +114281.3% per unit ***
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic | 
+  Price Index (vente, base=2024-Q1=100):
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |   Period          Index           CI 95%        γ    p-val
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |   -------------------------------------------------------
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |   2024-Q1        100.00   [100.0–100.0]   0.0000  1.0000 
+2026-06-09 23:07:18 | INFO     | analytics.hedonic.model:run_hedonic |   2026-Q2      114381.29   [109591.6–119380.3]   7.0421  0.0000 ***
+2026-06-09 23:07:18 | SUCCESS  | analytics.hedonic.model:run_hedonic | [hedonic] RPPI saved → /Users/taha/Downloads/rppi_maroc/data/exports/rppi_vente_20260609.csv
+2026-06-09 23:39:30 | INFO     | processing.cleaner:run_cleaning | === Phase 5: Data Cleaning Pipeline ===
+2026-06-09 23:39:31 | INFO     | processing.cleaner:load_raw | [cleaner] Loaded 278 new raw rows
+2026-06-09 23:39:31 | INFO     | processing.cleaner:remove_duplicates | [cleaner] Dedup: 278 → 278
+2026-06-09 23:39:31 | INFO     | processing.cleaner:filter_outliers | [cleaner] Outlier filter: 278 → 97 with valid price
+2026-06-09 23:39:31 | INFO     | processing.cleaner:run_cleaning | [cleaner] Valid records: 97 / 278
+2026-06-09 23:39:31 | SUCCESS  | processing.cleaner:run_cleaning | [cleaner] Saved 97 records → /Users/taha/Downloads/rppi_maroc/data/clean/clean_20260609_2239.csv
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda | === Phase 6: Exploratory Data Analysis ===
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda | 
+=======================================================
+  Price distribution by city × transaction
+=======================================================
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   casablanca_inconnu: n=413 | median=753,000 DH | ppm2=2,426 DH/m²
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   casablanca_location: n=282 | median=10,800 DH | ppm2=115 DH/m²
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   casablanca_vente: n=267 | median=1,700,000 DH | ppm2=15,942 DH/m²
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   marrakech_inconnu: n=345 | median=693,000 DH | ppm2=6,500 DH/m²
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   marrakech_location: n=306 | median=12,000 DH | ppm2=105 DH/m²
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   marrakech_vente: n=242 | median=1,925,000 DH | ppm2=16,833 DH/m²
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   rabat_inconnu: n=221 | median=3,077,000 DH | ppm2=8,242 DH/m²
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   rabat_location: n=394 | median=20,000 DH | ppm2=111 DH/m²
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   rabat_vente: n=303 | median=5,500,000 DH | ppm2=19,318 DH/m²
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   tanger_inconnu: n=297 | median=663,000 DH | ppm2=8,513 DH/m²
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   tanger_location: n=376 | median=12,000 DH | ppm2=92 DH/m²
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   tanger_vente: n=245 | median=2,016,000 DH | ppm2=15,896 DH/m²
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda | 
+  Temporal analysis → /Users/taha/Downloads/rppi_maroc/data/exports/eda_temporal_20260609.csv
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   Segmentation → /Users/taha/Downloads/rppi_maroc/data/exports/eda_segmentation_20260609.csv
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   Quality report → /Users/taha/Downloads/rppi_maroc/data/exports/eda_quality_20260609.csv
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda | 
+  Missing values summary:
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |     price                100.0% complete  ████████████████████
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |     surface               97.5% complete  ███████████████████
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |     rooms                 98.3% complete  ███████████████████
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |     property_type        100.0% complete  ████████████████████
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |     city                 100.0% complete  ████████████████████
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |     neighborhood          37.6% complete  ███████
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |     price_per_m2          96.1% complete  ███████████████████
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |     log_price            100.0% complete  ████████████████████
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |     year_quarter         100.0% complete  ████████████████████
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda | 
+=======================================================
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   Total listings analysed : 3,691
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   Cities                  : 4
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   Transaction types       : ['inconnu', 'location', 'vente']
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   Property types          : 10
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   Date range              : 2026-Q2 → 2026-Q2
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda |   Avg quality score       : 0.89
+2026-06-09 23:39:43 | INFO     | analytics.eda.exploratory:run_eda | =======================================================
+2026-06-09 23:39:43 | SUCCESS  | analytics.eda.exploratory:run_eda | [EDA] Phase 6 complete.
+2026-06-09 23:50:40 | INFO     | processing.cleaner:run_cleaning | === Phase 5: Data Cleaning Pipeline ===
+2026-06-09 23:50:40 | INFO     | processing.cleaner:load_raw | [cleaner] Loaded 3872 new raw rows
+2026-06-09 23:50:40 | INFO     | processing.cleaner:remove_duplicates | [cleaner] Dedup: 3872 → 3872
+2026-06-09 23:50:40 | INFO     | processing.cleaner:filter_outliers | [cleaner] Outlier filter: 3872 → 3357 with valid price
+2026-06-09 23:50:41 | INFO     | processing.cleaner:run_cleaning | [cleaner] Valid records: 3357 / 3872
+2026-06-09 23:50:43 | SUCCESS  | processing.cleaner:run_cleaning | [cleaner] Saved 3357 records → /Users/taha/Downloads/rppi_maroc/data/clean/clean_20260609_2250.csv

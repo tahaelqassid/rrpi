@@ -1,0 +1,701 @@
+raw_id,source,url,title,city,neighborhood,raw_price,raw_surface,raw_rooms,scraped_at,price,surface,rooms,property_type,transaction,price_per_m2,log_price,year,month,quarter,year_quarter,region,latitude,longitude,quality_score
+30,mubawab,https://www.mubawab.ma/fr/a/8357115/location-appartement-belv%C3%A9d%C3%A8re,Location appartement Belvédère,casablanca,,5 300 DH,"44
+						m²",2 Pièces,2026-06-09 21:46:10.906743,5300.0,44.0,2.0,appartement,location,120.45,8.575462099540212,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+45,mubawab,https://www.mubawab.ma/fr/a/8361373/tr%C3%A8s-bel-appartement-en-location-%C3%A0-ma%C3%A2rif-extension-superficie-60-m%C2%B2-places-de-stationnement-et-terrasse,"Très bel appartement en location à Maârif Extension.
+Superfi...",casablanca,,4 800 DH,"60
+						m²",2 Pièces,2026-06-09 21:46:10.921468,4800.0,60.0,2.0,appartement,location,80.0,8.476371196895983,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+46,mubawab,https://www.mubawab.ma/fr/a/8360595/studio-vide-location-maarif,Studio vide location maarif,casablanca,Studio vide location maarif,5 000 DH,"65
+						m²",2 Pièces,2026-06-09 21:46:10.922406,5000.0,65.0,2.0,studio,location,76.92,8.517193191416238,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,1.0
+48,mubawab,https://www.mubawab.ma/fr/a/8358241/appartement-vide-location-californie,Appartement vide location californie,casablanca,,4 700 DH,"60
+						m²",3 Pièces,2026-06-09 21:46:10.924408,4700.0,60.0,3.0,appartement,location,78.33,8.45531778769815,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+49,mubawab,https://www.mubawab.ma/fr/a/8150856/apartement-en-location-meubl%C3%A9-abdlmoumen,Apartement en location meublé abdlmoumen,casablanca,,5 300 DH,"62
+						m²",3 Pièces,2026-06-09 21:46:10.925421,5300.0,62.0,3.0,autre,location,85.48,8.575462099540212,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+65,mubawab,https://www.mubawab.ma/fr/a/8362206/appartement-amlak-bernoussi,Appartement amlak bernoussi,casablanca,,2 300 DH,"60
+						m²",1 Pièce,2026-06-09 21:46:10.940523,2300.0,60.0,1.0,appartement,inconnu,38.33,7.7406644019172415,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+76,mubawab,https://www.mubawab.ma/fr/a/8329321/villa-vide-en-location-californie-avec-piscine,Villa vide en location californie avec piscine,casablanca,,38 000 DH,"450
+						m²",4 Pièces,2026-06-09 21:46:10.950660,38000.0,450.0,4.0,villa,location,84.44,10.545341438708522,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+79,mubawab,https://www.mubawab.ma/fr/a/8329583/studio-bien-situ%C3%A9-quartier-palmier-vide,Studio bien situé quartier Palmier vide,casablanca,,5 800 DH,"56
+						m²",2 Pièces,2026-06-09 21:46:10.953465,5800.0,56.0,2.0,studio,inconnu,103.57,8.66561319653451,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+90,mubawab,https://www.mubawab.ma/fr/a/8349631/appartement-meubl%C3%A9-moderne-%C3%A0-louer-oulfa,Appartement meublé moderne à louer Oulfa,casablanca,,5 000 DH,"56
+						m²",3 Pièces,2026-06-09 21:46:10.963332,5000.0,56.0,3.0,appartement,location,89.29,8.517193191416238,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+146,mubawab,https://www.mubawab.ma/fr/a/8358951/studio-climatis%C3%A9-meubl%C3%A9,Studio climatisé meublé,casablanca,,6 000 DH,"41
+						m²",2 Pièces,2026-06-09 21:46:11.014762,6000.0,41.0,2.0,studio,inconnu,146.34,8.699514748210191,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+150,mubawab,https://www.mubawab.ma/fr/a/8344820/2-chambres-residence-fermee-et-securisee,2 chambres residence fermee et securisee,casablanca,,6 000 DH,"85
+						m²",2 chambres residence fermee et securisee,2026-06-09 21:46:11.018319,6000.0,85.0,2.0,chambre,inconnu,70.59,8.699514748210191,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+154,mubawab,https://www.mubawab.ma/fr/a/8354667/petit-cocon-proche-cfc,Petit cocon proche cfc,casablanca,,4 500 DH,"16
+						m²",1 Ch.,2026-06-09 21:46:11.021881,4500.0,16.0,1.0,autre,inconnu,281.25,8.411832675758411,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+170,mubawab,https://www.mubawab.ma/fr/a/8359930/villa-%C3%A0-louer-ain-diab-r%C3%A9sidence,"Villa à louer Ain Diab 
+Résidence",casablanca,"Villa à louer Ain Diab 
+Résidence",40 000 DH,"500
+						m²",5 Pièces,2026-06-09 21:46:11.036548,40000.0,500.0,5.0,villa,location,80.0,10.596634733096073,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,1.0
+189,mubawab,https://www.mubawab.ma/fr/a/8338888/appartement-%C3%A0-sidi-maarouf,Appartement à Sidi Maarouf,casablanca,,6 000 DH,"71
+						m²",5 Pièces,2026-06-09 21:46:11.056175,6000.0,71.0,5.0,appartement,inconnu,84.51,8.699514748210191,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+190,mubawab,https://www.mubawab.ma/fr/a/8347469/studio-bien-situ%C3%A9-quartier-maarif,Studio bien situé quartier maarif,casablanca,Studio bien situé quartier maarif,4 800 DH,"56
+						m²",2 Pièces,2026-06-09 21:46:11.057069,4800.0,56.0,2.0,studio,inconnu,85.71,8.476371196895983,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,1.0
+223,mubawab,https://www.mubawab.ma/fr/a/8362062/joli-studio-vide-alouer-a-oasis-avec-terasse,Joli studio vide alouer a oasis avec terasse,casablanca,,5 200 DH,"58
+						m²",1 Pièce,2026-06-09 21:46:11.087126,5200.0,58.0,1.0,studio,location,89.66,8.556413904569519,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+236,mubawab,https://www.mubawab.ma/fr/a/8270105/villa-ain-diab-%C3%A0-la-location-meubl%C3%A9e-moderne,Villa ain diab à la location meublée moderne,casablanca,Villa ain diab à la location meublée moderne,45 000 DH,"450
+						m²",6 Pièces,2026-06-09 21:46:11.098977,45000.0,450.0,6.0,villa,location,100.0,10.714417768752456,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,1.0
+241,mubawab,https://www.mubawab.ma/fr/a/8357673/maison-de-luxe-%C3%A0-louer-%C3%A0-ain-diab-3-pi%C3%A8ces-bien-meubl%C3%A9,Maison de luxe à louer à Ain Diab. 3 pièces. Bien meublé,casablanca,Maison de luxe à louer à Ain Diab. 3 pièces. Bien meublé,38 000 DH,"450
+						m²",Maison de luxe à louer à Ain Diab. 3 pièces. Bien meublé,2026-06-09 21:46:11.103532,38000.0,450.0,3.0,autre,location,84.44,10.545341438708522,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,1.0
+243,mubawab,https://www.mubawab.ma/fr/a/7962243/bel-appartement-au-oasis,Bel appartement au Oasis,casablanca,,5 500 DH,"55
+						m²",2 Pièces,2026-06-09 21:46:11.105328,5500.0,55.0,2.0,appartement,inconnu,100.0,8.612503371220562,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+244,mubawab,https://www.mubawab.ma/fr/a/8329991/loft-meubl%C3%A9-d%E2%80%99exception-%E2%80%93-4%E1%B5%89-%C3%A9tage-%E2%80%93-cadre-de-vie-premium,Loft meublé d’exception – 4ᵉ étage – Cadre de vie premium,casablanca,,5 500 DH,"42
+						m²",1 Pièce,2026-06-09 21:46:11.106220,5500.0,42.0,1.0,autre,inconnu,130.95,8.612503371220562,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+259,mubawab,https://www.mubawab.ma/fr/a/8362012/studio-meubl%C3%A9-43m%C2%B2-h%C3%B4pitaux-traway,"Studio meublé 43m² 
+Hôpitaux TRAWAY",casablanca,,5 500 DH,"Studio meublé 43m² 
+Hôpitaux TRAWAY",2 Pièces,2026-06-09 21:46:11.119851,5500.0,43.0,2.0,studio,inconnu,127.91,8.612503371220562,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+274,mubawab,https://www.mubawab.ma/fr/a/8257496/studio-vide-au-quartiers-princesses-sokrate,Studio vide au quartiers princesses sokrate,casablanca,,5 700 DH,"68
+						m²",1 Pièce,2026-06-09 21:46:11.133551,5700.0,68.0,1.0,studio,inconnu,83.82,8.648221453822641,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+276,mubawab,https://www.mubawab.ma/fr/a/8353870/villa-%C3%A0-louer-meubl%C3%A9e-ain-diab-extension,Villa à louer meublée ain diab extension,casablanca,Villa à louer meublée ain diab extension,45 000 DH,"400
+						m²",8 Pièces,2026-06-09 21:46:11.135360,45000.0,400.0,8.0,villa,location,112.5,10.714417768752456,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,1.0
+293,mubawab,https://www.mubawab.ma/fr/a/8360816/joli-studio-vide-riviera,Joli studio vide riviera,casablanca,,6 000 DH,"57
+						m²",2 Pièces,2026-06-09 21:46:11.151099,6000.0,57.0,2.0,studio,inconnu,105.26,8.699514748210191,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+298,mubawab,https://www.mubawab.ma/fr/a/8358574/villa-d%E2%80%99exception-%C3%A0-louer-%E2%80%93-quartier-oasis,Villa d’Exception à Louer – Quartier Oasis,casablanca,,45 000 DH,"550
+						m²",7 Pièces,2026-06-09 21:46:11.155572,45000.0,550.0,7.0,villa,location,81.82,10.714417768752456,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+343,mubawab,https://www.mubawab.ma/fr/a/8340893/studio-a-louer-mersultan-avec-ascenseur,Studio a louer mersultan. Avec ascenseur,casablanca,,4 500 DH,"45
+						m²",2 Pièces,2026-06-09 21:46:11.196829,4500.0,45.0,2.0,studio,location,100.0,8.411832675758411,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+345,mubawab,https://www.mubawab.ma/fr/a/8007146/villa-meubl%C3%A9e-%C3%A0-louer-ain-diab,Villa meublée à louer Ain Diab,casablanca,Villa meublée à louer Ain Diab,43 000 DH,"500
+						m²",5 Pièces,2026-06-09 21:46:11.198670,43000.0,500.0,5.0,villa,location,86.0,10.668955394675699,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,1.0
+349,mubawab,https://www.mubawab.ma/fr/a/8337475/location-villa-de-haut-standing-%C3%A0-californie-superficie-600-m%C2%B2-porte-blind%C3%A9e-salon-marocain-traditionnel,"Location villa de haut standing à Californie.
+Superficie 600...",casablanca,,40 000 DH,"600
+						m²",6 Pièces,2026-06-09 21:46:11.202311,40000.0,600.0,6.0,villa,location,66.67,10.596634733096073,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+350,mubawab,https://www.mubawab.ma/fr/a/8355768/appartement-meubl%C3%A9-%C3%A0-louer-oulfa-byti-sakan,Appartement meublé à louer Oulfa byti sakan,casablanca,,4 500 DH,"65
+						m²",4 Pièces,2026-06-09 21:46:11.203203,4500.0,65.0,4.0,appartement,location,69.23,8.411832675758411,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+353,mubawab,https://www.mubawab.ma/fr/a/8313880/splendide-villa-moderne-avec-piscine-%C3%A0-louer,Splendide villa moderne avec piscine à louer,casablanca,,38 000 DH,"350
+						m²",6 Pièces,2026-06-09 21:46:11.205885,38000.0,350.0,6.0,villa,location,108.57,10.545341438708522,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+357,mubawab,https://www.mubawab.ma/fr/a/8348083/villa-meubl%C3%A9-en-location-%C3%A0-ain-diab-extension,Villa meublé en location à Ain Diab Extension,casablanca,Villa meublé en location à Ain Diab Extension,43 000 DH,"350
+						m²",5 Pièces,2026-06-09 21:46:11.209498,43000.0,350.0,5.0,villa,location,122.86,10.668955394675699,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,1.0
+380,mubawab,https://www.mubawab.ma/fr/a/8353699/apprt-neuf-avec-piscine-a-sidi-maarouf,Apprt neuf avec piscine a sidi maarouf,casablanca,,6 000 DH,"80
+						m²",3 Pièces,2026-06-09 21:46:11.230466,6000.0,80.0,3.0,autre,inconnu,75.0,8.699514748210191,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+383,mubawab,https://www.mubawab.ma/fr/a/8327506/appart-r%C3%A9s-almadina-meubl%C3%A9-sidi-maarouf,Appart rés almadina meublé sidi maarouf,casablanca,,5 500 DH,"100
+						m²",4 Pièces,2026-06-09 21:46:11.233206,5500.0,100.0,4.0,appartement,inconnu,55.0,8.612503371220562,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+391,mubawab,https://www.mubawab.ma/fr/a/7907764/appartement-meubl%C3%A9-bien-situ%C3%A9,Appartement meublé bien situé,casablanca,,5 500 DH,"55
+						m²",1 Pièce,2026-06-09 21:46:11.240401,5500.0,55.0,1.0,appartement,inconnu,100.0,8.612503371220562,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+395,mubawab,https://www.mubawab.ma/fr/a/7170412/studio-meubl%C3%A9-quartier-des-h%C3%B4pitaux,Studio meublé quartier des hôpitaux,casablanca,,6 000 DH,"40
+						m²",1 Pièce,2026-06-09 21:46:11.244108,6000.0,40.0,1.0,studio,inconnu,150.0,8.699514748210191,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+400,mubawab,https://www.mubawab.ma/fr/a/8341592/ain-diab-%E2%80%93-villa-%C3%A0-la-location,Ain Diab – Villa à la location,casablanca,Ain Diab – Villa à la location,42 000 DH,"320
+						m²",5 Pièces,2026-06-09 21:46:11.248830,42000.0,320.0,5.0,villa,location,131.25,10.645424897265505,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,1.0
+404,mubawab,https://www.mubawab.ma/fr/a/8358735/un-tr%C3%A8s-beau-studio-neuf-jamais-habit%C3%A9-haut-standing-situ%C3%A9-dans-le-quartier-recherch%C3%A9-de-riviera,"Un très beau studio neuf, jamais habité, haut standing situé...",casablanca,,6 000 DH,"45
+						m²",1 Pièce,2026-06-09 21:46:11.252525,6000.0,45.0,1.0,studio,inconnu,133.33,8.699514748210191,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+420,mubawab,https://www.mubawab.ma/fr/a/8332668/location-%E2%80%93-appartement-neuf-jamais-habit%C3%A9-%C3%A0-beau-s%C3%A9jour-proche-cfc,"Location – Appartement neuf jamais habité à Beau Séjour, pro...",casablanca,,5 300 DH,"50
+						m²",1 Pièce,2026-06-09 21:46:11.267203,5300.0,50.0,1.0,appartement,location,106.0,8.575462099540212,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+464,mubawab,https://www.mubawab.ma/fr/a/8352381/villa-a-la-location-vide-a-anfa-4500dh,Villa a la location vide a anfa 4500dh,casablanca,,45 000 DH,"900
+						m²",6 Pièces,2026-06-09 21:46:11.307701,45000.0,900.0,6.0,villa,location,50.0,10.714417768752456,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+494,mubawab,https://www.mubawab.ma/fr/pa/8276299/appartement-en-vente-%C3%A0-a%C3%AFn-seba%C3%A2-surface-de-42-m%C2%B2,Appartement en vente à Aïn Sebaâ. Surface de 42 m²,casablanca,,800 000 DH,Appartement en vente à Aïn Sebaâ. Surface de 42 m²,1 Ch.,2026-06-09 21:46:11.335466,800000.0,42.0,1.0,appartement,vente,19047.62,13.592367006650065,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+500,mubawab,https://www.mubawab.ma/fr/a/8219465/villa-usage-habitation-ou-commerciale-sidi-maarouf,Villa usage habitation ou commerciale sidi maarouf,casablanca,,6 810 000 DH,"600
+						m²",8 Pièces,2026-06-09 21:46:11.340888,6810000.0,600.0,8.0,villa,inconnu,11350.0,15.733902678125695,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+508,mubawab,https://www.mubawab.ma/fr/pa/8294691/appartement-%C3%A0-l-achat-%C3%A0-bournazil-superficie-71-m%C2%B2,Appartement à l'achat à Bournazil. Superficie 71 m²,casablanca,,745 500 DH,Appartement à l'achat à Bournazil. Superficie 71 m²,2 Pièces,2026-06-09 21:46:11.348485,745500.0,71.0,2.0,appartement,vente,10500.0,13.52181041318693,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+509,mubawab,https://www.mubawab.ma/fr/a/8351046/3-chambres-vue-oc%C3%A9an-ain-diab-casablanca-appartement-vue-sur-parc-oc%C3%A9an,3 chambres vue océan ain diab casablanca appartement vue sur...,casablanca,3 chambres vue océan ain diab casablanca appartement vue sur...,4 900 000 DH,"185
+						m²",3 chambres vue océan ain diab casablanca appartement vue sur...,2026-06-09 21:46:11.349377,4900000.0,185.0,3.0,appartement,inconnu,26486.49,15.404745763080856,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,1.0
+512,mubawab,https://www.mubawab.ma/fr/a/8361959/%C3%A0-vendre-villa-%C3%A0-d%C3%A9molir-au-quartier-oasis,À vendre Villa à démolir au quartier oasis,casablanca,,16 000 000 DH,"250
+						m²",4 Pièces,2026-06-09 21:46:11.352234,16000000.0,250.0,4.0,villa,vente,64000.0,16.588099280204055,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+521,mubawab,https://www.mubawab.ma/fr/a/8359413/appartement-en-vente-%C3%A0-ibn-tachfine-surface-de-80-m%C2%B2-service-de-concierge-et-climatisation,"Appartement en vente à Ibn Tachfine. 
+Surface de 80 m². 
+Ser...",casablanca,,9 650 000 DH,"Appartement en vente à Ibn Tachfine. 
+Surface de 80 m². 
+Ser...",5 Pièces,2026-06-09 21:46:11.360358,9650000.0,80.0,5.0,appartement,vente,120625.0,16.082468473315167,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+554,mubawab,https://www.mubawab.ma/fr/a/8203218/prix-except-villa-avec-2-habitations-ind%C3%A9pendantes,Prix except: Villa avec 2 habitations indépendantes,casablanca,,4 950 000 DH,"640
+						m²",14 Pièces,2026-06-09 21:46:11.391438,4950000.0,640.0,14.0,villa,inconnu,7734.38,15.414898134544874,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+577,mubawab,https://www.mubawab.ma/fr/a/8344370/studio-%C3%A0-vendre-%E2%80%93-beaulieu,Studio à vendre – Beaulieu,casablanca,,817 000 DH,"43
+						m²",1 Pièce,2026-06-09 21:46:11.412177,817000.0,43.0,1.0,studio,vente,19000.0,13.61339437384214,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+580,mubawab,https://www.mubawab.ma/fr/a/8336991/coeur-de-polo,Coeur de polo,casablanca,,8 500 000 DH,"929
+						m²",,2026-06-09 21:46:11.415011,8500000.0,929.0,,autre,inconnu,9149.62,15.955576721460545,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.6666666666666666
+581,mubawab,https://www.mubawab.ma/fr/a/8336995/charmante-villa-renove,Charmante villa renove,casablanca,"Ain Diab,
+								Casablanca",8 500 000 DH,"321
+						m²",4 Chambres,2026-06-09 21:46:11.415923,8500000.0,321.0,4.0,villa,inconnu,26479.75,15.955576721460545,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,1.0
+586,mubawab,https://www.mubawab.ma/fr/a/8362197/%C3%A0-vendre-villa-2000m-et-5ch-3sl-%C3%A0-californie,À vendre villa 2000m et 5ch 3sl à californie,casablanca,,24 000 000 DH,"2000
+						m²",6 Pièces,2026-06-09 21:46:11.420433,24000000.0,2000.0,6.0,villa,vente,12000.0,16.99356438831222,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+605,mubawab,https://www.mubawab.ma/fr/a/8344822/villa-commerciale-sur-bd-nador-rare,Villa commerciale sur bd nador rare,casablanca,,8 500 000 DH,"540
+						m²",3 Chambres,2026-06-09 21:46:11.438513,8500000.0,540.0,3.0,villa,inconnu,15740.74,15.955576721460545,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+660,mubawab,https://www.mubawab.ma/fr/a/8318089/maison-de-luxe-%C3%A0-vendre-%C3%A0-californie-%C3%A0-200-m%C3%A8tres-de-l%E2%80%99%C3%A9cole-am%C3%A9ricaine-4-grandes-pi%C3%A8ces-espace-vert,Maison de luxe à vendre à Californie à 200 mètres de l’école...,casablanca,,15 600 000 DH,"850
+						m²",4 Pièces,2026-06-09 21:46:11.489914,15600000.0,850.0,4.0,autre,vente,18352.94,16.562781472219765,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+663,mubawab,https://www.mubawab.ma/fr/a/8321157/villa-428-m%C2%B2-4-chambres-jardin-calme,Villa 428 m² 4 chambres jardin calme,casablanca,,7 650 000 DH,Villa 428 m² 4 chambres jardin calme,Villa 428 m² 4 chambres jardin calme,2026-06-09 21:46:11.492590,7650000.0,428.0,,villa,inconnu,17873.83,15.850216205802719,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.6666666666666666
+671,mubawab,https://www.mubawab.ma/fr/a/7663455/belle-villa-sur-anfa-1100-m%C3%A8tres,Belle Villa sur ANFA 1100 mètres,casablanca,,23 000 000 DH,"1100
+						m²",8 Pièces,2026-06-09 21:46:11.499909,23000000.0,1100.0,8.0,villa,inconnu,20909.09,16.951004773893423,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+672,mubawab,https://www.mubawab.ma/fr/a/8075479/villa-de-haut-standing-%C3%A0-anfa,Villa de Haut Standing à Anfa,casablanca,,23 500 000 DH,"1000
+						m²",9 Pièces,2026-06-09 21:46:11.500843,23500000.0,1000.0,9.0,villa,inconnu,23500.0,16.972510979114386,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+697,mubawab,https://www.mubawab.ma/fr/pa/8355283/appartement-en-vente-%C3%A0-hay-almassira-2-superficie-71-m%C2%B2,Appartement en vente à Hay Almassira 2. Superficie 71 m²,casablanca,,745 500 DH,Appartement en vente à Hay Almassira 2. Superficie 71 m²,"Résidence Oqba est un projet immobilier moderne développé par le Groupe Annabi, idéalement situé en face de la station de tramway, au cœur du quartier dynamique et recherché de Hay Raja.
+
+La résidence propose des appartements de 2 et 3 pièces, conçus pour offrir des espaces fonctionnels, lumineux et confortables, adaptés aussi bien à la résidence principale qu’à l’investissement locatif.
+
+Le projet intègre également des locaux commerciaux, pa...",2026-06-09 21:46:11.524691,745500.0,71.0,2.0,appartement,vente,10500.0,13.52181041318693,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+723,mubawab,https://www.mubawab.ma/fr/a/8120266/vente-villa-anfa-vue-sur-mer,Vente villa anfa vue sur mer,casablanca,,24 000 000 DH,"870
+						m²",10 Pièces,2026-06-09 21:46:11.549302,24000000.0,870.0,10.0,villa,vente,27586.21,16.99356438831222,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+724,mubawab,https://www.mubawab.ma/fr/a/8320058/villa-signature-%C3%A0-ain-diab-corniche-luxe-absolu-et-r%C3%A9novation-d%E2%80%99exception,Villa Signature à Ain Diab Corniche Luxe Absolu et Rénovatio...,casablanca,Villa Signature à Ain Diab Corniche Luxe Absolu et Rénovatio...,30 000 000 DH,"700
+						m²",7 Pièces,2026-06-09 21:46:11.550268,30000000.0,700.0,7.0,villa,inconnu,42857.14,17.216707939626428,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,1.0
+729,mubawab,https://www.mubawab.ma/fr/pa/8355284/bel-appartement-%C3%A0-vendre-%C3%A0-hay-almassira-2-surface-de-71-m%C2%B2,Bel appartement à vendre à Hay Almassira 2. Surface de 71 m²,casablanca,,745 500 DH,Bel appartement à vendre à Hay Almassira 2. Surface de 71 m²,"Résidence Oqba est un projet immobilier moderne développé par le Groupe Annabi, idéalement situé en face de la station de tramway, au cœur du quartier dynamique et recherché de Hay Raja.
+
+La résidence propose des appartements de 2 et 3 pièces, conçus pour offrir des espaces fonctionnels, lumineux et confortables, adaptés aussi bien à la résidence principale qu’à l’investissement locatif.
+
+Le projet intègre également des locaux commerciaux, pa...",2026-06-09 21:46:11.554743,745500.0,71.0,2.0,appartement,vente,10500.0,13.52181041318693,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+740,mubawab,https://www.mubawab.ma/fr/a/8355175/villa-de-famille-spacieuse-avec-piscine-et-jardin,"Villa de famille, Spacieuse avec piscine et jardin",casablanca,,9 500 000 DH,"600
+						m²",7 Pièces,2026-06-09 21:46:11.564831,9500000.0,600.0,7.0,villa,inconnu,15833.33,16.06680235657077,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+741,mubawab,https://www.mubawab.ma/fr/a/8258297/villa-d%E2%80%99architecte-%C3%A0-vendre-moderne-avec-vue-mer-ain-diab,Villa d’Architecte À Vendre Moderne avec Vue Mer Ain Diab,casablanca,Villa d’Architecte À Vendre Moderne avec Vue Mer Ain Diab,10 900 000 DH,"565
+						m²",5 Pièces,2026-06-09 21:46:11.565724,10900000.0,565.0,5.0,villa,vente,19292.04,16.204273347199372,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,1.0
+765,mubawab,https://www.mubawab.ma/fr/a/8334527/appartement-%C3%A0-vendre-%C3%A0-ma%C3%A2rif-1-chambre-meubl%C3%A9,Appartement à vendre à Maârif. 1 chambre. Meublé,casablanca,,800 000 DH,"36
+						m²",Appartement à vendre à Maârif. 1 chambre. Meublé,2026-06-09 21:46:11.587891,800000.0,36.0,1.0,appartement,vente,22222.22,13.592367006650065,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+774,mubawab,https://www.mubawab.ma/fr/a/8362030/villa-isolee-750-m2-florida-mandarona,"Villa Isolee 750 m2 
+Florida Mandarona",casablanca,,11 000 000 DH,"750
+						m²",10 Pièces,2026-06-09 21:46:11.595969,11000000.0,750.0,10.0,villa,inconnu,14666.67,16.213405830762646,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+803,mubawab,https://www.mubawab.ma/fr/a/8309086/villa-2108-m%C2%B2-%C3%A0-retaper-plein-sud-calme,Villa 2108 m² à retaper plein sud calme,casablanca,,16 000 000 DH,Villa 2108 m² à retaper plein sud calme,2 Pièces,2026-06-09 21:46:11.623358,16000000.0,,2.0,villa,inconnu,,16.588099280204055,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.6666666666666666
+807,mubawab,https://www.mubawab.ma/fr/a/7748247/somptueuse-villa-au-quartier-californie,Somptueuse villa au quartier californie,casablanca,,12 500 000 DH,"680
+						m²",7 Pièces,2026-06-09 21:46:11.626992,12500000.0,680.0,7.0,villa,inconnu,18382.35,16.34123920227253,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+809,mubawab,https://www.mubawab.ma/fr/pa/8288942/studio-%C3%A0-vendre-mers-sultan-d-une-superficie-55m%C2%B2,Studio à vendre Mers Sultan d'une superficie 55m²,casablanca,,840 000 DH,Studio à vendre Mers Sultan d'une superficie 55m²,2 Pièces,2026-06-09 21:46:11.628808,840000.0,55.0,2.0,studio,vente,15272.73,13.641157170819497,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+826,mubawab,https://www.mubawab.ma/fr/pa/8299921/appartement-%C3%A0-vendre-%C3%A0-sidi-moumen-87m%C2%B2,Appartement à vendre à Sidi Moumen. 87m²,casablanca,,745 000 DH,Appartement à vendre à Sidi Moumen. 87m²,4 Pièces,2026-06-09 21:46:11.645249,745000.0,87.0,4.0,appartement,vente,8563.22,13.521139497361697,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+836,mubawab,https://www.mubawab.ma/fr/a/8272116/superbe-villa-5-chambres-excellent-%C3%A9tat,Superbe villa 5 chambres excellent état,casablanca,"Ain Diab Extension,
+								Casablanca",12 000 000 DH,"420
+						m²",Superbe villa 5 chambres excellent état,2026-06-09 21:46:11.654694,12000000.0,420.0,5.0,villa,inconnu,28571.43,16.300417207752275,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,1.0
+842,mubawab,https://www.mubawab.ma/fr/a/8320138/villa-%C3%A0-vendre-%C3%A0-californie-%C3%A0-c%C3%B4t%C3%A9-de-amoud,Villa à vendre à Californie à côté de Amoud,casablanca,,22 000 000 DH,"1402
+						m²",23 Pièces,2026-06-09 21:46:11.660069,22000000.0,1402.0,,villa,vente,15691.87,16.90655301132259,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.6666666666666666
+848,mubawab,https://www.mubawab.ma/fr/a/8199861/superbe-triplex-vue-ocean-jacuzzi-terrasse,Superbe triplex vue ocean jacuzzi terrasse,casablanca,"Ain Diab Extension,
+								Casablanca",6 950 000 DH,"370
+						m²",7 Pièces,2026-06-09 21:46:11.666610,6950000.0,370.0,7.0,autre,inconnu,18783.78,15.754252217540975,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,1.0
+849,mubawab,https://www.mubawab.ma/fr/a/8350770/emplacement-prime-pour-cette-villa-commerciale,Emplacement prime pour cette villa commerciale,casablanca,,13 000 000 DH,"663
+						m²",10 Pièces,2026-06-09 21:46:11.667528,13000000.0,663.0,10.0,villa,inconnu,19607.84,16.38045991542581,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+850,mubawab,https://www.mubawab.ma/fr/a/8318438/villa-contemporaine-%C3%A0-vendre-sur-l-oasis-649-m%C2%B2,Villa contemporaine à vendre sur l'Oasis 649 m²,casablanca,,11 800 000 DH,Villa contemporaine à vendre sur l'Oasis 649 m²,8 Pièces,2026-06-09 21:46:11.668516,11800000.0,649.0,8.0,villa,vente,18181.82,16.283610089435893,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+857,mubawab,https://www.mubawab.ma/fr/pa/8299922/appartement-%C3%A0-vendre-%C3%A0-sidi-moumen-superficie-100-m%C2%B2,Appartement à vendre à Sidi Moumen. Superficie 100 m²,casablanca,,730 000 DH,Appartement à vendre à Sidi Moumen. Superficie 100 m²,4 Pièces,2026-06-09 21:46:11.675656,730000.0,100.0,4.0,appartement,vente,7300.0,13.500799813124575,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+858,mubawab,https://www.mubawab.ma/fr/a/8343468/rare-villa-jumel%C3%A9e-triplex-%C3%A0-r%C3%A9nover,Rare villa jumelée triplex à rénover,casablanca,VAL D'ANFA / AL MANAR CASABLANCA - EXCLUSIVITÉ YAKEEY - VENTE D'UNE RARE VILLA / TRIPLEX DE 320 M² H,6 950 000 DH,"320
+						m²",8 Pièces,2026-06-09 21:46:11.676562,6950000.0,320.0,8.0,villa,inconnu,21718.75,15.754252217540975,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,1.0
+864,mubawab,https://www.mubawab.ma/fr/a/7290337/villa-au-coeur-d%E2%80%99anfa-sup%C3%A9rieur,Villa au coeur d’Anfa supérieur,casablanca,,36 000 000 DH,"1000
+						m²",6 Pièces,2026-06-09 21:46:11.681993,36000000.0,1000.0,6.0,villa,inconnu,36000.0,17.399029496420383,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+881,mubawab,https://www.mubawab.ma/fr/a/8266692/villa-%C3%A0-vendre-cil,Villa à vendre CIL,casablanca,,9 300 000 DH,"460
+						m²",5 Pièces,2026-06-09 21:46:11.698037,9300000.0,460.0,5.0,villa,vente,20217.39,16.045524958123483,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+889,mubawab,https://www.mubawab.ma/fr/pa/8299923/appartement-neuf-%C3%A0-vendre-108m%C2%B2,Appartement neuf à vendre. 108m²,casablanca,,735 000 DH,Appartement neuf à vendre. 108m²,4 Pièces,2026-06-09 21:46:11.705264,735000.0,108.0,4.0,appartement,vente,6805.56,13.507625778194974,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+900,mubawab,https://www.mubawab.ma/fr/a/8361788/appartement-%C3%A0-vendre-72-m%C2%B2-2-chambres-ain-borja-casablanca,"Appartement à vendre 72 m², 2 chambres 
+Ain Borja 
+Casablanc...",casablanca,,800 000 DH,"Appartement à vendre 72 m², 2 chambres 
+Ain Borja 
+Casablanc...","Appartement à vendre 72 m², 2 chambres 
+Ain Borja 
+Casablanc...",2026-06-09 21:46:11.715364,800000.0,72.0,,appartement,vente,11111.11,13.592367006650065,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.6666666666666666
+901,mubawab,https://www.mubawab.ma/fr/a/8324699/californie-vente-d-une-superbe-villa-de-1005-m%C2%B2,Californie vente d'une superbe villa de 1005 m²,casablanca,,15 000 000 DH,Californie vente d'une superbe villa de 1005 m²,6 Pièces,2026-06-09 21:46:11.716262,15000000.0,1005.0,6.0,villa,vente,14925.37,16.523560759066484,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+904,mubawab,https://www.mubawab.ma/fr/a/8058531/magnifique-villa-%C3%A0-vendre-californie,Magnifique villa à vendre Californie,casablanca,,10 250 000 DH,"560
+						m²",9 Pièces,2026-06-09 21:46:11.718934,10250000.0,560.0,9.0,villa,vente,18303.57,16.14278826354869,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+912,mubawab,https://www.mubawab.ma/fr/a/8356545/immeuble-de-rapport-entierement-renove-a-vendre-%E2%80%93mers-sultan-%E2%80%93-casablanca,Immeuble de rapport entierement renove a vendre –mers sultan...,casablanca,,20 000 000 DH,"851
+						m²",15 Pièces,2026-06-09 21:46:11.726805,20000000.0,851.0,15.0,autre,vente,23501.76,16.811242831518264,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+920,mubawab,https://www.mubawab.ma/fr/pa/8299924/appartement-%C3%A0-vendre-%C3%A0-sidi-moumen,Appartement à vendre à Sidi Moumen,casablanca,,820 000 DH,"108
+						m²",4 Pièces,2026-06-09 21:46:11.734792,820000.0,108.0,4.0,appartement,vente,7592.59,13.617059619240436,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,0.8333333333333334
+970,mubawab,https://www.mubawab.ma/fr/a/8347423/jolie-villa-avec-beaucoup-de-charme-%C3%A0-vendre-%C3%A0-ain-diab-zoom-zoom,Jolie villa avec beaucoup de charme à vendre à Ain Diab zoom...,casablanca,Jolie villa avec beaucoup de charme à vendre à Ain Diab zoom...,16 400 000 DH,"450
+						m²",8 Pièces,2026-06-09 21:46:11.781641,16400000.0,450.0,8.0,villa,vente,36444.44,16.612791892794426,2026,6,2,2026-Q2,Grand Casablanca-Settat,33.5731,-7.5898,1.0
+979,mubawab,https://www.mubawab.ma/fr/a/8348628/maison-de-luxe-%C3%A0-louer-%C3%A0-riyad-superficie-800-m%C2%B2-bien-meubl%C3%A9,"Maison de luxe à louer à Riyad. 
+Superficie 800 m². 
+Bien me...",rabat,,75 000 DH,"Maison de luxe à louer à Riyad. 
+Superficie 800 m². 
+Bien me...",7 Pièces,2026-06-09 21:48:28.722625,75000.0,800.0,7.0,autre,location,93.75,11.225243392518447,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+981,mubawab,https://www.mubawab.ma/fr/a/8354553/tr%C3%A8s-bel-appart-2p-vide-%C3%A0-agdal,Très bel appart 2p vide à agdal,rabat,Très bel appart 2p vide à agdal,7 000 DH,"70
+						m²",2 Pièces,2026-06-09 21:48:28.727079,7000.0,70.0,2.0,appartement,inconnu,100.0,8.85366542803745,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+991,mubawab,https://www.mubawab.ma/fr/a/8285732/location-villa-moderne-meubl%C3%A9e-%C3%A0-hay-riad,Location villa moderne meublée à Hay Riad,rabat,Location villa moderne meublée à Hay Riad,70 000 DH,"540
+						m²",7 Pièces,2026-06-09 21:48:28.739195,70000.0,540.0,7.0,villa,location,129.63,11.156250521031495,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+992,mubawab,https://www.mubawab.ma/fr/a/8327572/location-studio-meubl%C3%A9-%C3%A0-hassan,Location studio meublé à Hassan,rabat,Location studio meublé à Hassan,8 000 DH,"45
+						m²",2 Pièces,2026-06-09 21:48:28.742090,8000.0,45.0,2.0,studio,location,177.78,8.987196820661973,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+997,mubawab,https://www.mubawab.ma/fr/a/7949086/studio-meubl%C3%A9-%C3%A0-louer-%C3%A0-agdal,Studio Meublé à Louer à Agdal,rabat,Studio Meublé à Louer à Agdal,6 500 DH,"40
+						m²",1 Pièce,2026-06-09 21:48:28.748836,6500.0,40.0,1.0,studio,location,162.5,8.779557455883728,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1011,mubawab,https://www.mubawab.ma/fr/a/8326085/villa-meubl%C3%A9e-%C3%A0-louer-%C3%A0-souissi-%E2%80%93-rabat,Villa meublée à louer à Souissi – Rabat,rabat,Villa meublée à louer à Souissi – Rabat,70 000 DH,"2500
+						m²",4 Pièces,2026-06-09 21:48:28.775784,70000.0,,4.0,villa,location,,11.156250521031495,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1017,mubawab,https://www.mubawab.ma/fr/a/8361422/un-studio-meubl%C3%A9-sur-hassan-avec-terrasse,Un studio meublé sur Hassan avec terrasse,rabat,Un studio meublé sur Hassan avec terrasse,6 500 DH,"40
+						m²",1 Pièce,2026-06-09 21:48:28.784707,6500.0,40.0,1.0,studio,inconnu,162.5,8.779557455883728,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1039,mubawab,https://www.mubawab.ma/fr/a/8319729/villa-meubl%C3%A9e-de-luxe-avec-piscine-%C3%A0-louer-%E2%80%93-hay-riad-rabat,"Villa meublée de luxe avec piscine à louer – Hay Riad, Rabat",rabat,"Villa meublée de luxe avec piscine à louer – Hay Riad, Rabat",70 000 DH,"624
+						m²",6 Pièces,2026-06-09 21:48:28.820249,70000.0,624.0,6.0,villa,location,112.18,11.156250521031495,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1045,mubawab,https://www.mubawab.ma/fr/a/8361590/villa-de-prestige-meubl%C3%A9e-%C3%A0-louer-%E2%80%93-l%E2%80%99orangeraie-de-souissi-rabat,Villa de prestige meublée à louer – L’Orangeraie de Souissi...,rabat,Villa de prestige meublée à louer – L’Orangeraie de Souissi...,80 000 DH,"2000
+						m²",10 Pièces,2026-06-09 21:48:28.831740,80000.0,2000.0,10.0,villa,location,40.0,11.289781913656018,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1046,mubawab,https://www.mubawab.ma/fr/a/8201520/appartement-%C3%A0-louer-%C3%A0-l-agdal,Appartement à louer à l'agdal,rabat,Appartement à louer à l'agdal,8 500 DH,"100
+						m²",2 Pièces,2026-06-09 21:48:28.832907,8500.0,100.0,2.0,appartement,location,85.0,9.047821442478408,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1082,mubawab,https://www.mubawab.ma/fr/a/8360528/%C3%A0-louer-%E2%80%93-appartement-114-m%C2%B2-avec-terrasse-%C3%A0-hassan-rabat,"À louer – Appartement 114 m² avec terrasse à Hassan, Rabat",rabat,"À louer – Appartement 114 m² avec terrasse à Hassan, Rabat",8 500 DH,"À louer – Appartement 114 m² avec terrasse à Hassan, Rabat",3 Pièces,2026-06-09 21:48:28.874778,8500.0,114.0,3.0,appartement,location,74.56,9.047821442478408,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1099,mubawab,https://www.mubawab.ma/fr/a/8361855/location-appartement-meubl%C3%A9-rabat-cym,"Location Appartement Meublé Rabat 
+CYM",rabat,,8 000 DH,"72
+						m²",3 Pièces,2026-06-09 21:48:28.892300,8000.0,72.0,3.0,appartement,location,111.11,8.987196820661973,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1105,mubawab,https://www.mubawab.ma/fr/a/8244566/location-villa-rabat-souissi,Location Villa Rabat Souissi,rabat,Location Villa Rabat Souissi,67 500 DH,"700
+						m²",11 Pièces,2026-06-09 21:48:28.898327,67500.0,700.0,11.0,villa,location,96.43,11.119882876860622,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1112,mubawab,https://www.mubawab.ma/fr/a/8211970/villa-%C3%A0-louer-debut-souissi,Villa à louer debut Souissi,rabat,Villa à louer debut Souissi,67 500 DH,"600
+						m²",10 Pièces,2026-06-09 21:48:28.907185,67500.0,600.0,10.0,villa,location,112.5,11.119882876860622,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1113,mubawab,https://www.mubawab.ma/fr/a/8361407/magnifique-appartement-non-meubl%C3%A9-en-location-%C3%A0-agdal,Magnifique appartement non meublé en location à Agdal,rabat,Magnifique appartement non meublé en location à Agdal,7 000 DH,"80
+						m²",2 Pièces,2026-06-09 21:48:28.909405,7000.0,80.0,2.0,appartement,location,87.5,8.85366542803745,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1114,mubawab,https://www.mubawab.ma/fr/a/8215612/tr%C3%A8s-bel-appartement-en-location-meubl%C3%A9-%C3%A0-hay-al-fath-rabat,Très bel appartement en location meublé à Hay Al Fath rabat,rabat,,5 500 DH,"70
+						m²",3 Pièces,2026-06-09 21:48:28.910878,5500.0,70.0,3.0,appartement,location,78.57,8.612503371220562,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1117,mubawab,https://www.mubawab.ma/fr/a/8359805/hay-riad-appartement-%C3%A0-louer-au-2%C3%A8me-%C3%A9tage,Hay Riad Appartement à louer au 2ème étage,rabat,Hay Riad Appartement à louer au 2ème étage,8 500 DH,"110
+						m²",1 Pièce,2026-06-09 21:48:28.914389,8500.0,110.0,1.0,riad,location,77.27,9.047821442478408,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1189,mubawab,https://www.mubawab.ma/fr/a/8343946/villa-5-suites-vide-%C3%A0-louer-%E2%80%93-souissi-rabat,Villa 5 suites vide à louer – Souissi Rabat,rabat,Villa 5 suites vide à louer – Souissi Rabat,65 000 DH,"2000
+						m²",8 Pièces,2026-06-09 21:48:29.016621,65000.0,2000.0,8.0,villa,location,32.5,11.082142548877775,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1210,mubawab,https://www.mubawab.ma/fr/a/8336255/une-magnifique-villa-meubl%C3%A9e-%C3%A0-louer,Une magnifique villa meublée à louer,rabat,"Souissi,
+								Rabat",65 000 DH,"900
+						m²",6 Pièces,2026-06-09 21:48:29.043260,65000.0,900.0,6.0,villa,location,72.22,11.082142548877775,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1227,mubawab,https://www.mubawab.ma/fr/a/8361588/studio-%C3%A0-louer-%C3%A0-le-haut-agdal-av-abtal-avec-terrasse,"Studio à louer à le haut agdal 
+av abtal 
+Avec terrasse",rabat,"Studio à louer à le haut agdal 
+av abtal 
+Avec terrasse",5 500 DH,"35
+						m²",1 Pièce,2026-06-09 21:48:29.059946,5500.0,35.0,1.0,studio,location,157.14,8.612503371220562,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1241,mubawab,https://www.mubawab.ma/fr/a/8155298/agdal-appartement-meubl%C3%A9-%C3%A0-louer,Agdal Appartement meublé à louer,rabat,Agdal Appartement meublé à louer,6 500 DH,"60
+						m²",2 Pièces,2026-06-09 21:48:29.078933,6500.0,60.0,2.0,appartement,location,108.33,8.779557455883728,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1242,mubawab,https://www.mubawab.ma/fr/a/8300771/bel-appartement-en-haut-agdal-rabat,"Bel appartement en haut 
+agdal 
+rabat",rabat,"Bel appartement en haut 
+agdal 
+rabat",7 500 DH,"100
+						m²",3 Pièces,2026-06-09 21:48:29.080460,7500.0,100.0,3.0,appartement,inconnu,75.0,8.922658299524402,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1251,mubawab,https://www.mubawab.ma/fr/a/7707124/studio-meubl%C3%A9-%C3%A0-agdal,Studio meublé à Agdal,rabat,Studio meublé à Agdal,7 500 DH,"40
+						m²",1 Pièce,2026-06-09 21:48:29.098415,7500.0,40.0,1.0,studio,inconnu,187.5,8.922658299524402,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1263,mubawab,https://www.mubawab.ma/fr/a/8345661/bel-appartement-en-bas-agdal-rabat,"Bel appartement en bas 
+agdal 
+rabat",rabat,"Bel appartement en bas 
+agdal 
+rabat",7 500 DH,"100
+						m²",3 Pièces,2026-06-09 21:48:29.115246,7500.0,100.0,3.0,appartement,inconnu,75.0,8.922658299524402,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1277,mubawab,https://www.mubawab.ma/fr/a/8361254/appartement-en-location-en-hassan-centre-ville-1-chambre-lave-linge,"Appartement en location en Hassan Centre Ville. 
+1 chambre...",rabat,"Appartement en location en Hassan Centre Ville. 
+1 chambre...",7 000 DH,"60
+						m²","Appartement en location en Hassan Centre Ville. 
+1 chambre...",2026-06-09 21:48:29.136425,7000.0,60.0,1.0,appartement,location,116.67,8.85366542803745,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1289,mubawab,https://www.mubawab.ma/fr/a/8352293/appart-3p-vide-%C3%A0-agdal-avec-terrasse,Appart 3p vide à agdal avec terrasse,rabat,Appart 3p vide à agdal avec terrasse,6 000 DH,"100
+						m²",3 Pièces,2026-06-09 21:48:29.159628,6000.0,100.0,3.0,appartement,inconnu,60.0,8.699514748210191,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1296,mubawab,https://www.mubawab.ma/fr/a/7720412/villa-de-standing-a-louer-%C3%A0-souissi-rabat,"Villa de standing A LOUER à Souissi 
+RABAT",rabat,"Villa de standing A LOUER à Souissi 
+RABAT",80 000 DH,"900
+						m²",9 Pièces,2026-06-09 21:48:29.168822,80000.0,900.0,9.0,villa,location,88.89,11.289781913656018,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1304,mubawab,https://www.mubawab.ma/fr/a/8302603/appartement-f3-meubl%C3%A9-%C3%A0-louer-sur-hassan,Appartement F3 meublé à louer sur hassan,rabat,Appartement F3 meublé à louer sur hassan,8 500 DH,"125
+						m²",3 Pièces,2026-06-09 21:48:29.183921,8500.0,125.0,3.0,appartement,location,68.0,9.047821442478408,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1312,mubawab,https://www.mubawab.ma/fr/a/8358768/appartement-bien-entretenu-%C3%A0-louer%E2%80%93-les-oranger,Appartement bien entretenu à louer– les oranger,rabat,"Appartement bien entretenu à louer– les oranger
+
+Prix : 6500dhs
+
+Description :
+Appartement propre et",6 500 DH,"80
+						m²",3 Pièces,2026-06-09 21:48:29.195249,6500.0,80.0,3.0,appartement,location,81.25,8.779557455883728,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1315,mubawab,https://www.mubawab.ma/fr/a/8209629/agdal-studio-meubl%C3%A9-de-haut-standing,Agdal Studio meublé de haut standing,rabat,Agdal Studio meublé de haut standing,5 500 DH,"38
+						m²",1 Pièce,2026-06-09 21:48:29.200304,5500.0,38.0,1.0,studio,inconnu,144.74,8.612503371220562,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1331,mubawab,https://www.mubawab.ma/fr/a/8255578/location-appartement-%C3%A0-temara-ouled-metaa,Location Appartement à Temara Ouled Metaa,rabat,,6 000 DH,"66
+						m²",3 Pièces,2026-06-09 21:48:29.226338,6000.0,66.0,3.0,appartement,location,90.91,8.699514748210191,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1343,mubawab,https://www.mubawab.ma/fr/a/8301500/location-villa-meubl%C3%A9e-%C3%A0-rabat-hay-riad,Location Villa Meublée à Rabat Hay Riad,rabat,Location Villa Meublée à Rabat Hay Riad,80 000 DH,"540
+						m²",10 Pièces,2026-06-09 21:48:29.243697,80000.0,540.0,10.0,villa,location,148.15,11.289781913656018,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1347,mubawab,https://www.mubawab.ma/fr/a/8321509/location-villa-meubl%C3%A9e-rabat-souissi,Location Villa Meublée Rabat Souissi,rabat,Location Villa Meublée Rabat Souissi,65 000 DH,"400
+						m²",5 Pièces,2026-06-09 21:48:29.249903,65000.0,400.0,5.0,villa,location,162.5,11.082142548877775,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1359,mubawab,https://www.mubawab.ma/fr/a/8353403/location-appartement-rabat-hay-riad,Location Appartement Rabat Hay Riad,rabat,Location Appartement Rabat Hay Riad,8 500 DH,"55
+						m²",2 Pièces,2026-06-09 21:48:29.267236,8500.0,55.0,2.0,riad,location,154.55,9.047821442478408,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1392,mubawab,https://www.mubawab.ma/fr/a/8233682/location-villa-moderne,Location villa moderne,rabat,"Souissi, Rabat",75 000 DH,"2000
+						m²",7 Pièces,2026-06-09 21:48:29.303289,75000.0,2000.0,7.0,villa,location,37.5,11.225243392518447,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1408,mubawab,https://www.mubawab.ma/fr/a/8314236/villa-meubl%C3%A9e-%C3%A0-louer-sur-souissi,Villa meublée à louer sur Souissi,rabat,Villa meublée à louer sur Souissi,80 000 DH,"2000
+						m²",8 Pièces,2026-06-09 21:48:29.321055,80000.0,2000.0,8.0,villa,location,40.0,11.289781913656018,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1410,mubawab,https://www.mubawab.ma/fr/a/8253532/villa-meubl%C3%A9e-%C3%A0-louer-sur-souissi,Villa meublée à louer sur Souissi,rabat,Villa meublée à louer sur Souissi,80 000 DH,"2000
+						m²",10 Pièces,2026-06-09 21:48:29.323603,80000.0,2000.0,10.0,villa,location,40.0,11.289781913656018,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1422,mubawab,https://www.mubawab.ma/fr/a/8339782/bel-appartement-en-location-en-hassan-centre-ville-3-pi%C3%A8ces-terrasse-et-ascenseur,"Bel appartement en location en Hassan Centre Ville. 
+3 pièce...",rabat,"Bel appartement en location en Hassan Centre Ville. 
+3 pièce...",8 500 DH,"90
+						m²","Bel appartement en location en Hassan Centre Ville. 
+3 pièce...",2026-06-09 21:48:29.341350,8500.0,90.0,3.0,appartement,location,94.44,9.047821442478408,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1428,mubawab,https://www.mubawab.ma/fr/a/8348996/appartement-bureau-%C3%A0-diour-jamaa-rabat,"Appartement bureau à Diour jamaa 
+Rabat",rabat,,7 000 DH,"80
+						m²",3 Pièces,2026-06-09 21:48:29.349926,7000.0,80.0,3.0,bureau,inconnu,87.5,8.85366542803745,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1432,mubawab,https://www.mubawab.ma/fr/a/8360769/villa-de-prestige-avec-piscine-en-location-%C3%A0-souissi,Villa de Prestige avec Piscine en location à Souissi,rabat,Villa de Prestige avec Piscine en location à Souissi,70 000 DH,"1879
+						m²",9 Pièces,2026-06-09 21:48:29.356094,70000.0,1879.0,9.0,villa,location,37.25,11.156250521031495,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1437,mubawab,https://www.mubawab.ma/fr/a/8360716/tr%C3%A8s-bel-appart-2p-meubl%C3%A9-%C3%A0-agdal-avec-terrasse,Très bel appart 2p meublé à agdal avec terrasse,rabat,Très bel appart 2p meublé à agdal avec terrasse,7 500 DH,"65
+						m²",2 Pièces,2026-06-09 21:48:29.366128,7500.0,65.0,2.0,appartement,inconnu,115.38,8.922658299524402,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1444,mubawab,https://www.mubawab.ma/fr/a/8154785/villa-neuf-en-location-%C3%A0-souissi,Villa neuf en location à souissi,rabat,Villa neuf en location à souissi,75 000 DH,"2000
+						m²",9 Pièces,2026-06-09 21:48:29.376598,75000.0,2000.0,9.0,villa,location,37.5,11.225243392518447,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1476,mubawab,https://www.mubawab.ma/fr/a/8305622/tr%C3%A8s-belle-villa-%C3%A0-vendre-souissi-rabat,Très belle villa à vendre Souissi rabat,rabat,Très belle villa à vendre Souissi rabat,27 000 000 DH,"1750
+						m²",7 Pièces,2026-06-09 21:48:29.425174,27000000.0,1750.0,7.0,villa,vente,15428.57,17.111347423968603,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1477,mubawab,https://www.mubawab.ma/fr/a/8361886/appartement-%C3%A0-vendre-45-m%C2%B2-%C3%A0-rabat-agdal,Appartement à vendre 45 m² à Rabat Agdal,rabat,Appartement à vendre 45 m² à Rabat Agdal,1 100 000 DH,Appartement à vendre 45 m² à Rabat Agdal,1 Pièce,2026-06-09 21:48:29.426863,1100000.0,45.0,1.0,appartement,vente,24444.44,13.9108207377686,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1482,mubawab,https://www.mubawab.ma/fr/a/8353350/appartement-%C3%A0-vendre-hay-el-fath-massira-rabat,Appartement à vendre Hay El Fath Massira Rabat,rabat,,1 290 000 DH,"108
+						m²",4 Pièces,2026-06-09 21:48:29.435647,1290000.0,108.0,4.0,appartement,vente,11944.44,14.070152776337855,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1484,mubawab,https://www.mubawab.ma/fr/a/8353842/appartement-%C3%A0-vendre-hay-el-fath-massira-rabat,Appartement à vendre Hay El Fath Massira Rabat,rabat,,1 290 000 DH,"108
+						m²",4 Pièces,2026-06-09 21:48:29.437969,1290000.0,108.0,4.0,appartement,vente,11944.44,14.070152776337855,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1519,mubawab,https://www.mubawab.ma/fr/a/8335722/vente-villa-rabat-souissi-pin%C3%A8de,Vente Villa Rabat Souissi Pinède,rabat,Vente Villa Rabat Souissi Pinède,27 000 000 DH,"800
+						m²",8 Pièces,2026-06-09 21:48:29.501252,27000000.0,800.0,8.0,villa,vente,33750.0,17.111347423968603,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1563,mubawab,https://www.mubawab.ma/fr/a/8278566/vente-appartement-%C3%A0-rabat-hay-riad,Vente Appartement à Rabat Hay Riad,rabat,Vente Appartement à Rabat Hay Riad,1 250 000 DH,"47
+						m²",2 Pièces,2026-06-09 21:48:29.573053,1250000.0,47.0,2.0,riad,vente,26595.74,14.038654109278484,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1567,mubawab,https://www.mubawab.ma/fr/a/8297562/vente-appartement-en-exclusivit%C3%A9-%C3%A0-hassan-rabat,Vente appartement En Exclusivité à Hassan rabat,rabat,Vente appartement En Exclusivité à Hassan rabat,1 600 000 DH,"94
+						m²",4 Pièces,2026-06-09 21:48:29.580442,1600000.0,94.0,4.0,appartement,vente,17021.28,14.28551418721001,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1610,mubawab,https://www.mubawab.ma/fr/a/7614520/villa-neuve-%C3%A0-souissi,Villa NEUVE à souissi,rabat,Villa NEUVE à souissi,30 000 000 DH,"2450
+						m²",9 Pièces,2026-06-09 21:48:29.667557,30000000.0,,9.0,villa,inconnu,,17.216707939626428,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1616,mubawab,https://www.mubawab.ma/fr/a/7149116/villa-neuve-tres-luxueuse-%C3%A0-souissi,Villa neuve tres luxueuse à Souissi,rabat,Villa neuve tres luxueuse à Souissi,45 000 000 DH,"2600
+						m²",8 Pièces,2026-06-09 21:48:29.681112,45000000.0,,8.0,villa,inconnu,,17.622173047734595,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1617,mubawab,https://www.mubawab.ma/fr/a/7232507/tres-belle-villa-neuve-%C3%A0-bir-kassem,Tres belle villa neuve à bir kassem,rabat,"Souissi, Rabat",39 000 000 DH,"3200
+						m²",9 Pièces,2026-06-09 21:48:29.682549,39000000.0,,9.0,villa,inconnu,,17.47907220409392,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1629,mubawab,https://www.mubawab.ma/fr/a/8094585/the-best-villa-hay-riad,The best villa hay riad,rabat,The best villa hay riad,28 000 000 DH,"1000
+						m²",9 Pièces,2026-06-09 21:48:29.704222,28000000.0,1000.0,9.0,villa,inconnu,28000.0,17.14771506813948,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1647,mubawab,https://www.mubawab.ma/fr/a/8201162/appartement-a-vendre-a-ikamat-sabah,Appartement a vendre A IKAMAT SABAH,rabat,,1 320 000 DH,"124
+						m²",6 Pièces,2026-06-09 21:48:29.736917,1320000.0,124.0,6.0,appartement,vente,10645.16,14.093142294562554,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1658,mubawab,https://www.mubawab.ma/fr/a/8264542/villa-neuve-%C3%A0-souissi,Villa neuve à souissi,rabat,Villa neuve à souissi,45 000 000 DH,"2000
+						m²",10 Pièces,2026-06-09 21:48:29.767290,45000000.0,2000.0,10.0,villa,inconnu,22500.0,17.622173047734595,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1668,mubawab,https://www.mubawab.ma/fr/a/8264610/villa-r%C3%A9cente-13000m2-%C3%A0-bon-prix-%C3%A0-l-avenue-mvi,Villa récente 13000m2 à bon prix à l'avenue MVI,rabat,"Souissi, Rabat",29 000 000 DH,"13000
+						m²",10 Pièces,2026-06-09 21:48:29.793791,29000000.0,,10.0,villa,inconnu,,17.182806387950748,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1681,mubawab,https://www.mubawab.ma/fr/a/7966707/villa-unique-%C3%A0-hay-riad,Villa unique à hay Riad,rabat,Villa unique à hay Riad,28 000 000 DH,"900
+						m²",8 Pièces,2026-06-09 21:48:29.826591,28000000.0,900.0,8.0,villa,inconnu,31111.11,17.14771506813948,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1696,mubawab,https://www.mubawab.ma/fr/a/7623326/villa-neuve-%C3%A0-souissi-avec-un-grand-jardin,Villa neuve à souissi avec un grand jardin,rabat,Villa neuve à souissi avec un grand jardin,35 000 000 DH,"2200
+						m²",9 Pièces,2026-06-09 21:48:29.861151,35000000.0,,9.0,villa,inconnu,,17.37085861945369,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1699,mubawab,https://www.mubawab.ma/fr/a/7915348/villa-luxueuse-%C3%A0-l-orangerie-souissi,"Villa luxueuse à l'orangerie 
+souissi",rabat,"Villa luxueuse à l'orangerie 
+souissi",50 000 000 DH,"2400
+						m²",10 Pièces,2026-06-09 21:48:29.866633,50000000.0,,10.0,villa,inconnu,,17.72753356339242,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1714,mubawab,https://www.mubawab.ma/fr/a/8358911/bel-appartement-%C3%A0-vendre-%C3%A0-diour-jamaa-2-chambres-prestation-de-conciergerie,Bel appartement à vendre à Diour Jamaa. 2 chambres. Prestati...,rabat,,1 600 000 DH,"75
+						m²",Bel appartement à vendre à Diour Jamaa. 2 chambres. Prestati...,2026-06-09 21:48:29.904189,1600000.0,75.0,2.0,appartement,vente,21333.33,14.28551418721001,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1734,mubawab,https://www.mubawab.ma/fr/a/8359060/villa-de-prestige-%C3%A0-vendre-%C3%A0-rabat-%E2%80%93-860-m%C2%B2-construits-sur-1-854-m%C2%B2-de-terrain-avec-piscine-et-jardin,Villa de Prestige à Vendre à Rabat – 860 m² construits sur 1...,rabat,,28 000 000 DH,Villa de Prestige à Vendre à Rabat – 860 m² construits sur 1...,4 Chambres,2026-06-09 21:48:29.939895,28000000.0,860.0,4.0,villa,vente,32558.14,17.14771506813948,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1737,mubawab,https://www.mubawab.ma/fr/a/8352995/vente-appartement-%C3%A0-diour-jamaa,Vente appartement à Diour Jamaa,rabat,,1 550 000 DH,"103
+						m²",3 Pièces,2026-06-09 21:48:29.946134,1550000.0,103.0,3.0,appartement,vente,15048.54,14.253765488895429,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1744,mubawab,https://www.mubawab.ma/fr/a/8201277/villa-%C3%A0-vendre-%C3%A0-souissi,Villa à vendre à Souissi,rabat,Villa à vendre à Souissi,28 000 000 DH,"1767
+						m²",11 Pièces,2026-06-09 21:48:29.954609,28000000.0,1767.0,11.0,villa,vente,15846.07,17.14771506813948,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1751,mubawab,https://www.mubawab.ma/fr/a/8352143/villa-de-prestige-en-vente-aux-ambassadeurs,Villa de prestige en vente aux ambassadeurs,rabat,,29 000 000 DH,"2300
+						m²",3 Pièces,2026-06-09 21:48:29.962027,29000000.0,,3.0,villa,vente,,17.182806387950748,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.6666666666666666
+1764,mubawab,https://www.mubawab.ma/fr/a/8341440/%C3%A0-louer-villa-d%E2%80%99exception-%C3%A0-bir-kacem-souissi,"À louer
+Villa d’exception à Bir Kacem, Souissi",rabat,"À louer
+Villa d’exception à Bir Kacem, Souissi",70 000 DH,"1700
+						m²",10 Pièces,2026-06-09 21:48:29.976006,70000.0,1700.0,10.0,villa,location,41.18,11.156250521031495,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1769,mubawab,https://www.mubawab.ma/fr/a/7167983/villas-exceptinnelle-aux-ambassadeurs,Villas exceptinnelle aux ambassadeurs,rabat,"je mets en vente une tres belle villa à souissi les Ambassadeurs, 
+la villa est dotée d'un grand ja",40 000 000 DH,"3200
+						m²",9 Pièces,2026-06-09 21:48:29.980668,40000000.0,,9.0,villa,inconnu,,17.50439001207821,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1823,mubawab,https://www.mubawab.ma/fr/a/8352998/appartement-%C3%A0-r%C3%A9nover-en-vente-%C3%A0-les-orangers-rabat,"Appartement à rénover en vente à les orangers 
+Rabat",rabat,,1 150 000 DH,"91
+						m²",4 Pièces,2026-06-09 21:48:30.047977,1150000.0,91.0,4.0,appartement,vente,12637.36,13.955272500339433,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1831,mubawab,https://www.mubawab.ma/fr/a/8356712/appartement-%C3%A0-vendre-%C3%A0-haut-agdal-3-pi%C3%A8ces-confortables,Appartement à vendre à Haut Agdal. 3 pièces confortables,rabat,Appartement à vendre à Haut Agdal. 3 pièces confortables,1 100 000 DH,"45
+						m²",Appartement à vendre à Haut Agdal. 3 pièces confortables,2026-06-09 21:48:30.064660,1100000.0,45.0,3.0,appartement,vente,24444.44,13.9108207377686,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1835,mubawab,https://www.mubawab.ma/fr/a/8239215/bel-appartement-%C3%A0-vendre-%C3%A0-agdal-3-chambres-agr%C3%A9ables-meubl%C3%A9,Bel appartement à vendre à Agdal. 3 chambres agréables. Meub...,rabat,Bel appartement à vendre à Agdal. 3 chambres agréables. Meub...,1 650 000 DH,"121
+						m²",Bel appartement à vendre à Agdal. 3 chambres agréables. Meub...,2026-06-09 21:48:30.079003,1650000.0,121.0,3.0,appartement,vente,13636.36,14.316285845876763,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1841,mubawab,https://www.mubawab.ma/fr/a/8355658/villa-avec-piscine-ultra-luxe-%C3%A0-vendre-%C3%A0-souissi-rabat,"Villa avec piscine Ultra Luxe à Vendre à Souissi, Rabat",rabat,"Villa avec piscine Ultra Luxe à Vendre à Souissi, Rabat",28 000 000 DH,"2472
+						m²",10 Pièces,2026-06-09 21:48:30.084969,28000000.0,,10.0,villa,vente,,17.14771506813948,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1845,mubawab,https://www.mubawab.ma/fr/a/8129004/villa-%C3%A0-vendre-souissi-rabat,"Villa à vendre Souissi 
+Rabat",rabat,"Villa à vendre Souissi 
+Rabat",28 000 000 DH,"2500
+						m²",8 Pièces,2026-06-09 21:48:30.089820,28000000.0,,8.0,villa,vente,,17.14771506813948,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1850,mubawab,https://www.mubawab.ma/fr/a/8354888/vente-d-un-bel-appartement-%C3%A0-agdal-1-pi%C3%A8ce-meubl%C3%A9,Vente d'un bel appartement à Agdal. 1 Pièce. Meublé,rabat,Vente d'un bel appartement à Agdal. 1 Pièce. Meublé,1 300 000 DH,"37
+						m²",Vente d'un bel appartement à Agdal. 1 Pièce. Meublé,2026-06-09 21:48:30.098452,1300000.0,37.0,1.0,appartement,vente,35135.14,14.077874822431765,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1874,mubawab,https://www.mubawab.ma/fr/a/8331757/tr%C3%A8s-belle-villa-neuve-%C3%A0-vendre-%C3%A0-souissii,Très belle villa neuve à vendre à souissii,rabat,Très belle villa neuve à vendre à souissii,27 000 000 DH,"1750
+						m²",7 Pièces,2026-06-09 21:48:30.127679,27000000.0,1750.0,7.0,villa,vente,15428.57,17.111347423968603,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1889,mubawab,https://www.mubawab.ma/fr/a/8182060/villa-%C3%A0-vendre-%C3%A0-souissi,Villa à vendre à Souissi,rabat,Villa à vendre à Souissi,27 000 000 DH,"2000
+						m²",9 Pièces,2026-06-09 21:48:30.144447,27000000.0,2000.0,9.0,villa,vente,13500.0,17.111347423968603,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1893,mubawab,https://www.mubawab.ma/fr/a/8118492/villa-%C3%A0-vendre,Villa à vendre,rabat,"Souissi, Rabat",27 000 000 DH,"2100
+						m²",14 Pièces,2026-06-09 21:48:30.148936,27000000.0,,14.0,villa,vente,,17.111347423968603,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1909,mubawab,https://www.mubawab.ma/fr/a/8349057/appartement-%C3%A0-l-achat-%C3%A0-guich-oudaya-superficie-112-m%C2%B2-salon-traditionnel-et-syst%C3%A8me-d-antenne-parabolique,Appartement à l'achat à Guich Oudaya. Superficie 112 m². Sal...,rabat,,1 500 000 DH,Appartement à l'achat à Guich Oudaya. Superficie 112 m². Sal...,4 Pièces,2026-06-09 21:48:30.167343,1500000.0,112.0,4.0,appartement,vente,13392.86,14.22097566607244,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,0.8333333333333334
+1930,mubawab,https://www.mubawab.ma/fr/a/8289544/%C3%A0-vendre-villaultramoderne-lotissementmarie-louise,"À VENDRE VillaUltramoderne 
+LotissementMarie Louise",rabat,"Souissi, Rabat",29 000 000 DH,"1000
+						m²",10 Pièces,2026-06-09 21:48:30.192125,29000000.0,1000.0,10.0,villa,vente,29000.0,17.182806387950748,2026,6,2,2026-Q2,Rabat-Salé-Kénitra,34.0209,-6.8416,1.0
+1937,mubawab,https://www.mubawab.ma/fr/a/8162159/villa-a-louer-en-location-journali%C3%A8re-%E2%80%93-route-de-ourika,Villa a louer en location journalière – Route de Ourika,marrakech,,2 600 DH,"180
+						m²",4 Pièces,2026-06-09 21:50:45.861459,2600.0,180.0,4.0,villa,location,14.44,7.8632667240095735,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+1940,mubawab,https://www.mubawab.ma/fr/a/8334606/villa-d%E2%80%99exception-%C3%A0-louer,Villa d’exception à louer,marrakech,,67 000 DH,"800
+						m²",7 Pièces,2026-06-09 21:50:45.865373,67000.0,800.0,7.0,villa,location,83.75,11.112447898373103,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+1943,mubawab,https://www.mubawab.ma/fr/a/8362203/villa-de-luxe-%C3%A0-louer-golf-amelkis,Villa de Luxe à Louer Golf Amelkis,marrakech,,50 000 DH,"760
+						m²",5 Pièces,2026-06-09 21:50:45.869033,50000.0,760.0,5.0,villa,location,65.79,10.819778284410283,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+1960,mubawab,https://www.mubawab.ma/fr/a/8362210/appartement-a-louer,Appartement a louer,marrakech,,4 500 DH,"72
+						m²",5 Pièces,2026-06-09 21:50:45.886640,4500.0,72.0,5.0,appartement,location,62.5,8.411832675758411,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+1998,mubawab,https://www.mubawab.ma/fr/a/8362137/appart-meubl%C3%A9-longue-dur%C3%A9e-%C3%A0-partir-d-ao%C3%BBt-wifi,"Appart meublé longue durée à partir d'Août, Wifi",marrakech,,5 900 DH,"80
+						m²",3 Pièces,2026-06-09 21:50:45.925018,5900.0,80.0,3.0,appartement,inconnu,73.75,8.68270762989381,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2002,mubawab,https://www.mubawab.ma/fr/a/8356107/superbe-villa-a-louer-sur-argan,Superbe villa a Louer sur Argan,marrakech,,65 000 DH,"400
+						m²",7 Pièces,2026-06-09 21:50:45.928733,65000.0,400.0,7.0,villa,location,162.5,11.082142548877775,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2003,mubawab,https://www.mubawab.ma/fr/a/8350310/location-villa-de-luxe-%C3%A0-agdal-avenue-mohamed-6-surface-de-700-m%C2%B2-s%C3%A9curit%C3%A9,"Location villa de luxe à Agdal avenue Mohamed 6.
+Surface de...",marrakech,"Location villa de luxe à Agdal avenue Mohamed 6.
+Surface de...",45 000 DH,"700
+						m²",9 Pièces,2026-06-09 21:50:45.929749,45000.0,700.0,9.0,villa,location,64.29,10.714417768752456,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,1.0
+2014,mubawab,https://www.mubawab.ma/fr/a/8292836/villa-meubl%C3%A9e-%C3%A0-louer-ou-%C3%A0-vendre,Villa meublée à louer ou à vendre,marrakech,,54 000 DH,"1100
+						m²",4 Pièces,2026-06-09 21:50:45.940502,54000.0,1100.0,4.0,villa,location,49.09,10.896739325546411,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2018,mubawab,https://www.mubawab.ma/fr/a/8360398/villa-d%E2%80%99exception-%C3%A0-louer,Villa d’Exception à Louer,marrakech,,75 000 DH,"800
+						m²",4 Pièces,2026-06-09 21:50:45.944359,75000.0,800.0,4.0,villa,location,93.75,11.225243392518447,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2021,mubawab,https://www.mubawab.ma/fr/a/8263784/amelkis-1-villa-%C3%A0-louer-meubl%C3%A9e-5ch-piscine-chauff%C3%A9e,"Amelkis 1: Villa à louer meublée 5Ch, Piscine chauffée",marrakech,,42 000 DH,"330
+						m²",18 Pièces,2026-06-09 21:50:45.947063,42000.0,330.0,18.0,villa,location,127.27,10.645424897265505,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2025,mubawab,https://www.mubawab.ma/fr/a/8362105/opportunit%C3%A9-imm%C3%A9diate-appartement-meubl%C3%A9-2-chambre,Opportunité immédiate appartement meublé 2 chambre,marrakech,,5 500 DH,"54
+						m²",Opportunité immédiate appartement meublé 2 chambre,2026-06-09 21:50:45.950866,5500.0,54.0,2.0,appartement,inconnu,101.85,8.612503371220562,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2040,mubawab,https://www.mubawab.ma/fr/a/8335209/appartement-meubl%C3%A9-ihssan-mabrouka-pr%C3%A8s-nejd,Appartement Meublé Ihssan Mabrouka Près Nejd,marrakech,,4 000 DH,"51
+						m²",1 Pièce,2026-06-09 21:50:45.965384,4000.0,51.0,1.0,appartement,inconnu,78.43,8.294049640102028,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2044,mubawab,https://www.mubawab.ma/fr/a/8360793/appartement-meubl%C3%A9-1er-zohour-targa,Appartement Meublé 1er Zohour Targa,marrakech,,4 000 DH,"60
+						m²",1 Pièce,2026-06-09 21:50:45.969276,4000.0,60.0,1.0,appartement,inconnu,66.67,8.294049640102028,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2045,mubawab,https://www.mubawab.ma/fr/a/8360798/appartement-meubl%C3%A9e-3eme-bayt-atik-route-casa,"Appartement Meublée 3eme Bayt Atik 
+Route Casa",marrakech,,4 200 DH,"60
+						m²",1 Pièce,2026-06-09 21:50:45.970179,4200.0,60.0,1.0,appartement,inconnu,70.0,8.34283980427146,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2046,mubawab,https://www.mubawab.ma/fr/a/8360847/appartement-vide-3ch-rez-de-chausse-ain-mezour,Appartement Vide 3ch rez de Chausse Ain Mezour,marrakech,,4 500 DH,"82
+						m²",1 Pièce,2026-06-09 21:50:45.971078,4500.0,82.0,1.0,appartement,inconnu,54.88,8.411832675758411,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2047,mubawab,https://www.mubawab.ma/fr/a/8361236/appartement-vide-1er-ascenseur-charaf-izdihar,Appartement Vide 1er Ascenseur Charaf Izdihar,marrakech,,3 500 DH,"62
+						m²",1 Pièce,2026-06-09 21:50:45.971973,3500.0,62.0,1.0,appartement,inconnu,56.45,8.160518247477505,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2061,mubawab,https://www.mubawab.ma/fr/a/8361926/location-villa-4-chambres-402-m2-argan-golf,LOCATION Villa 4 chambres 402 m2 Argan Golf,marrakech,,50 000 DH,"450
+						m²",LOCATION Villa 4 chambres 402 m2 Argan Golf,2026-06-09 21:50:45.985273,50000.0,450.0,4.0,villa,location,111.11,10.819778284410283,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2069,mubawab,https://www.mubawab.ma/fr/a/8354502/villa-de-luxe-%C3%A0-louer-%C3%A0-route-de-l-ourika-4-chambres-agr%C3%A9ables-bien-meubl%C3%A9,"Villa de luxe à louer à Route de l'Ourika. 
+4 chambres agréa...",marrakech,,45 000 DH,"500
+						m²","Villa de luxe à louer à Route de l'Ourika. 
+4 chambres agréa...",2026-06-09 21:50:45.992873,45000.0,500.0,4.0,villa,location,90.0,10.714417768752456,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2082,mubawab,https://www.mubawab.ma/fr/a/8284674/almaaden-villa-riad-%C3%A0-louer-meubl%C3%A9e-4ch-piscine-chauff%C3%A9e-ch-personnel,"Almaaden: Villa Riad à louer MEUBLÉE, 4Ch, Piscine chauffée...",marrakech,"Agdal,
+								Marrakech",45 000 DH,"300
+						m²",18 Pièces,2026-06-09 21:50:46.006217,45000.0,300.0,18.0,villa,location,150.0,10.714417768752456,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,1.0
+2119,mubawab,https://www.mubawab.ma/fr/a/8289054/magnifique-villa-%C3%A0-louer-%C3%A0-route-de-l-ourika-bien-meubl%C3%A9,"Magnifique villa à louer à Route de l'Ourika.
+Bien meublé",marrakech,,2 600 DH,"1300
+						m²",5 Pièces,2026-06-09 21:50:46.042167,2600.0,1300.0,5.0,villa,location,2.0,7.8632667240095735,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2142,mubawab,https://www.mubawab.ma/fr/a/7948017/location-dune-villa-de-4-chambres-a-la-nuit%C3%A9e,Location dune villa de 4 chambres a la nuitée,marrakech,,3 000 DH,"1000
+						m²",Location dune villa de 4 chambres a la nuitée,2026-06-09 21:50:46.067419,3000.0,1000.0,4.0,villa,location,3.0,8.006367567650246,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2157,mubawab,https://www.mubawab.ma/fr/a/8343086/appartement-%C3%A0-louer-vide-%C3%A0-allal-el-fassi,Appartement à louer vide à Allal El fassi,marrakech,,4 500 DH,"72
+						m²",3 Pièces,2026-06-09 21:50:46.081673,4500.0,72.0,3.0,appartement,location,62.5,8.411832675758411,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2177,mubawab,https://www.mubawab.ma/fr/a/8352791/appart-%C3%A0-louer-75-m%C2%B2-rouidat,"Appart à louer 75 m² 
+Rouidat",marrakech,,4 200 DH,"Appart à louer 75 m² 
+Rouidat",3 Pièces,2026-06-09 21:50:46.102789,4200.0,75.0,3.0,appartement,location,56.0,8.34283980427146,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2184,mubawab,https://www.mubawab.ma/fr/a/8353917/villa-%C3%A0-louer,Villa à louer,marrakech,"Agdal, Marrakech",45 000 DH,"500
+						m²",5 Pièces,2026-06-09 21:50:46.109168,45000.0,500.0,5.0,villa,location,90.0,10.714417768752456,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,1.0
+2193,mubawab,https://www.mubawab.ma/fr/a/8318046/villa-%C3%A0-louer-front-golf-amelkis,Villa à louer Front golf Amelkis,marrakech,,55 000 DH,,4 Pièces,2026-06-09 21:50:46.118098,55000.0,,4.0,villa,location,,10.915088464214607,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.6666666666666666
+2194,mubawab,https://www.mubawab.ma/fr/a/8337004/appartement-vide-3-ch-ain-mezouar-4eme,Appartement Vide 3 Ch Ain Mezouar 4eme,marrakech,,4 000 DH,"80
+						m²",1 Pièce,2026-06-09 21:50:46.119102,4000.0,80.0,1.0,appartement,inconnu,50.0,8.294049640102028,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2205,mubawab,https://www.mubawab.ma/fr/a/8360542/spacieux-appartement-pour-usage-bureau-a-proximit%C3%A9-de-gueliz,Spacieux appartement pour usage bureau a proximité de gueliz,marrakech,"À louer, appartement de 75 m² situé au 1er étage dans une ruelle animée à proximité de Guéliz.
+
+L'ap",4 300 DH,"75
+						m²",3 Pièces,2026-06-09 21:50:46.129927,4300.0,75.0,3.0,bureau,inconnu,57.33,8.366370301681654,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,1.0
+2208,mubawab,https://www.mubawab.ma/fr/a/8043811/joli-appartement-1-chambre-vide-semlaila,Joli appartement 1 chambre vide Semlaila,marrakech,,4 500 DH,"60
+						m²",Joli appartement 1 chambre vide Semlaila,2026-06-09 21:50:46.135138,4500.0,60.0,1.0,appartement,inconnu,75.0,8.411832675758411,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2211,mubawab,https://www.mubawab.ma/fr/a/8350434/villa-a-louer-a-marrakech,Villa a louer a Marrakech,marrakech,,65 000 DH,"250
+						m²",6 Pièces,2026-06-09 21:50:46.138117,65000.0,250.0,6.0,villa,location,260.0,11.082142548877775,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2253,mubawab,https://www.mubawab.ma/fr/a/8332704/location-2-chambres-90m%C2%B2-al-fadl,Location 2 chambres 90m² Al Fadl,marrakech,,3 800 DH,Location 2 chambres 90m² Al Fadl,Location 2 chambres 90m² Al Fadl,2026-06-09 21:50:46.195391,3800.0,90.0,2.0,chambre,location,42.22,8.242756345714477,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2264,mubawab,https://www.mubawab.ma/fr/a/8349131/studio-r%C3%A9nov%C3%A9-moderne-bd-allal-al-fassi,"Studio Rénové, Moderne, Bd Allal Al Fassi",marrakech,,5 500 DH,"55
+						m²",2 Pièces,2026-06-09 21:50:46.214268,5500.0,55.0,2.0,studio,inconnu,100.0,8.612503371220562,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2267,mubawab,https://www.mubawab.ma/fr/a/8359744/appartement-%C3%A0-louer-vide-%C3%A0-proximit%C3%A9-mcdonald,Appartement à louer vide à Proximité McDonald,marrakech,,75 000 DH,"75
+						m²",3 Pièces,2026-06-09 21:50:46.219021,75000.0,75.0,3.0,appartement,location,1000.0,11.225243392518447,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2270,mubawab,https://www.mubawab.ma/fr/a/8361532/location-d-un-appartement-%C3%A0-mhamid-superficie-70-m%C2%B2-meubl%C3%A9,"Location d'un appartement à Mhamid.
+Superficie 70 m².
+Meublé",marrakech,,4 300 DH,"Location d'un appartement à Mhamid.
+Superficie 70 m².
+Meublé",2 Pièces,2026-06-09 21:50:46.222356,4300.0,70.0,2.0,appartement,location,61.43,8.366370301681654,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2285,mubawab,https://www.mubawab.ma/fr/a/8332766/%C3%A0-ne-pas-rater-appartement-2-chambres-dans-r%C3%A9sidence-s%C3%A9curis%C3%A9e,À ne pas rater: Appartement 2 chambres dans résidence sécuri...,marrakech,,2 800 DH,"60
+						m²",À ne pas rater: Appartement 2 chambres dans résidence sécuri...,2026-06-09 21:50:46.244960,2800.0,60.0,2.0,appartement,inconnu,46.67,7.937374696163295,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2308,mubawab,https://www.mubawab.ma/fr/a/8238763/appartement-meubl%C3%A9-2-chambres-%C3%A0-cot%C3%A9-de-mabrouka,Appartement meublé 2 chambres à coté de Mabrouka,marrakech,,5 000 DH,"52
+						m²",Appartement meublé 2 chambres à coté de Mabrouka,2026-06-09 21:50:46.270443,5000.0,52.0,2.0,appartement,inconnu,96.15,8.517193191416238,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2354,mubawab,https://www.mubawab.ma/fr/a/8360804/appartement-vide-%C3%A0-marrakech-quartier-izdihar,Appartement Vide à Marrakech: Quartier Izdihar,marrakech,,3 500 DH,"65
+						m²",4 Pièces,2026-06-09 21:50:46.321453,3500.0,65.0,4.0,appartement,inconnu,53.85,8.160518247477505,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2355,mubawab,https://www.mubawab.ma/fr/a/8324127/location-longue-dur%C3%A9e-appartement-confortable-avec-toutes-commodit%C3%A9s,Location longue durée: appartement confortable avec toutes c...,marrakech,,4 500 DH,"65
+						m²",3 Pièces,2026-06-09 21:50:46.322418,4500.0,65.0,3.0,appartement,location,69.23,8.411832675758411,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2356,mubawab,https://www.mubawab.ma/fr/a/8332503/appartement-meubl%C3%A9-derri%C3%A8re-mcdonald-s-mima,Appartement Meublé Derrière McDonald's Mima,marrakech,,5 000 DH,"60
+						m²",1 Pièce,2026-06-09 21:50:46.324116,5000.0,60.0,1.0,appartement,inconnu,83.33,8.517193191416238,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2359,mubawab,https://www.mubawab.ma/fr/a/8306747/tr%C3%A8s-bel-appartement-en-location-2-chambres-agr%C3%A9ables-s%C3%A9curis%C3%A9-24-24,"Très bel appartement en location 2 chambres agréables. 
+Sécu...",marrakech,,4 500 DH,"60
+						m²","Très bel appartement en location 2 chambres agréables. 
+Sécu...",2026-06-09 21:50:46.328492,4500.0,60.0,2.0,appartement,location,75.0,8.411832675758411,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2370,mubawab,https://www.mubawab.ma/fr/a/8335163/appartement-meubl%C3%A9-%C3%A0-louer-pr%C3%A9-du-golf-noria,Appartement meublé à louer pré du golf noria,marrakech,,3 000 DH,"65
+						m²",2 Pièces,2026-06-09 21:50:46.346874,3000.0,65.0,2.0,appartement,location,46.15,8.006367567650246,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2375,mubawab,https://www.mubawab.ma/fr/a/8185492/rdc-meubl%C3%A9-%C3%A0-louer-appartement-familial-%C3%A0-marrakec,RDC meublé à louer Appartement familial à Marrakec,marrakech,,3 700 DH,"44
+						m²",3 Pièces,2026-06-09 21:50:46.362422,3700.0,44.0,3.0,appartement,location,84.09,8.216088098632316,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2377,mubawab,https://www.mubawab.ma/fr/a/8353823/bel-appartement-spacieaux-2-chb-%C3%A0-louer-mabrouka,"Bel appartement spacieaux 2 chb à louer 
+mabrouka",marrakech,"À louer en longue durée, un appartement meublé alliant confort, praticité et cadre de vie agréable, ",4 500 DH,"64
+						m²",3 Pièces,2026-06-09 21:50:46.365487,4500.0,64.0,3.0,appartement,location,70.31,8.411832675758411,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,1.0
+2388,mubawab,https://www.mubawab.ma/fr/a/8325415/luxueuse-maison-%C3%A0-appartements-priv%C3%A9s,Luxueuse Maison à appartements privés,marrakech,,3 200 DH,"350
+						m²",16 Pièces,2026-06-09 21:50:46.396470,3200.0,350.0,16.0,appartement,inconnu,9.14,8.070906088787819,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2487,mubawab,https://www.mubawab.ma/fr/a/8303851/appartement-%C3%A0-vendre-50-m%C2%B2-%C3%A0-marrakech-hay-charaf,Appartement à vendre 50 m² à Marrakech HAY CHARAF,marrakech,,700 000 DH,Appartement à vendre 50 m² à Marrakech HAY CHARAF,2 Pièces,2026-06-09 21:50:46.649942,700000.0,50.0,2.0,appartement,vente,14000.0,13.458835614025542,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2505,mubawab,https://www.mubawab.ma/fr/a/8362215/appart-2cham-a-vendre-abwab-gu%C3%A9liz,"Appart 2cham a vendre 
+Abwab Guéliz",marrakech,"Appart 2cham a vendre 
+Abwab Guéliz",480 000 DH,"55
+						m²",3 Pièces,2026-06-09 21:50:46.683592,480000.0,55.0,3.0,appartement,vente,8727.27,13.081541382884074,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,1.0
+2509,mubawab,https://www.mubawab.ma/fr/a/8358248/appartement-%C3%A0-vendre-gueliz-2,Appartement à vendre gueliz 2,marrakech,"Guéliz, Marrakech",700 000 DH,"53
+						m²",4 Pièces,2026-06-09 21:50:46.689459,700000.0,53.0,4.0,appartement,vente,13207.55,13.458835614025542,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,1.0
+2567,mubawab,https://www.mubawab.ma/fr/a/8160761/villa-vide-ourika-4-chambres,Villa vide Ourika 4 chambres,marrakech,,11 500 000 DH,"469
+						m²",Villa vide Ourika 4 chambres,2026-06-09 21:50:46.784251,11500000.0,469.0,4.0,villa,inconnu,24520.26,16.25785759333348,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2572,mubawab,https://www.mubawab.ma/fr/a/8276581/villa-de-prestige-%E2%80%93-domaines-d%E2%80%99amelkis,Villa De Prestige – Domaines D’Amelkis,marrakech,,19 600 000 DH,"450
+						m²",9 Pièces,2026-06-09 21:50:46.791977,19600000.0,450.0,9.0,villa,inconnu,43555.56,16.791040124200745,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2578,mubawab,https://www.mubawab.ma/fr/a/8361351/%C3%A9colodge-%C3%A0-vendre-route-de-tahannaout-marrakech,Écolodge à vendre route de Tahannaout Marrakech,marrakech,,9 250 000 DH,"1640
+						m²",30 Pièces,2026-06-09 21:50:46.800305,9250000.0,1640.0,,autre,vente,5640.24,16.04013410948861,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.6666666666666666
+2600,mubawab,https://www.mubawab.ma/fr/a/8337590/villa-de-luxe-avec-piscine-chauff%C3%A9e-%C3%A0-agdal,Villa De Luxe Avec Piscine Chauffée À AGDAL,marrakech,Villa De Luxe Avec Piscine Chauffée À AGDAL,9 500 000 DH,"370
+						m²",7 Pièces,2026-06-09 21:50:46.833798,9500000.0,370.0,7.0,villa,inconnu,25675.68,16.06680235657077,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,1.0
+2610,mubawab,https://www.mubawab.ma/fr/a/7143182/palais-d-hotes-oriental-luxe-pas-cher,PALAIS d'HOTES oriental / LUXE / PAS cher,marrakech,,13 890 000 DH,"1573
+						m²",24 Pièces,2026-06-09 21:50:46.844190,13890000.0,1573.0,,autre,inconnu,8830.26,16.446679714730525,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.6666666666666666
+2624,mubawab,https://www.mubawab.ma/fr/a/8358210/villa-contemporaine-d%E2%80%99exception-agdal-marrakech,"Villa Contemporaine d’exception Agdal, Marrakech",marrakech,"Villa Contemporaine d’exception Agdal, Marrakech",20 000 000 DH,"764
+						m²",9 Pièces,2026-06-09 21:50:46.858744,20000000.0,764.0,9.0,villa,inconnu,26178.01,16.811242831518264,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,1.0
+2635,mubawab,https://www.mubawab.ma/fr/a/8254741/villa-contemporaine-golf-de-noria,Villa contemporaine Golf de Noria,marrakech,,8 000 000 DH,"260
+						m²",6 Pièces,2026-06-09 21:50:46.869318,8000000.0,260.0,6.0,villa,inconnu,30769.23,15.89495209964411,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2640,mubawab,https://www.mubawab.ma/fr/a/8074802/duplex-%C3%A0-vendre-sur-l-hivernage,Duplex à vendre sur l'Hivernage,marrakech,Duplex à vendre sur l'Hivernage,9 500 000 DH,"440
+						m²",5 Pièces,2026-06-09 21:50:46.875100,9500000.0,440.0,5.0,duplex,vente,21590.91,16.06680235657077,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,1.0
+2641,mubawab,https://www.mubawab.ma/fr/a/8058075/magnifique-villa-meubl%C3%A9e-a-vendre-sur-akenza,Magnifique Villa Meublée A vendre sur Akenza,marrakech,,8 000 000 DH,"410
+						m²",7 Pièces,2026-06-09 21:50:46.876006,8000000.0,410.0,7.0,villa,vente,19512.2,15.89495209964411,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2642,mubawab,https://www.mubawab.ma/fr/a/8231781/villa-%C3%A0-vendre-10-km-de-marrakech,Villa à vendre 10 km de Marrakech,marrakech,,8 100 000 DH,"1600
+						m²",4 Pièces,2026-06-09 21:50:46.876935,8100000.0,1600.0,4.0,villa,vente,5062.5,15.907374619642667,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2657,mubawab,https://www.mubawab.ma/fr/a/8292544/jolie-villa-%C3%A0-vendre,Jolie Villa à vendre,marrakech,,12 000 000 DH,"2126
+						m²",4 Pièces,2026-06-09 21:50:46.892305,12000000.0,,4.0,villa,vente,,16.300417207752275,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.6666666666666666
+2670,mubawab,https://www.mubawab.ma/fr/a/8352722/%C3%A0-vendre-%E2%80%93-propri%C3%A9t%C3%A9-d%E2%80%99exception-%C3%A0-argan-golf-%E2%80%93-marrakech,À vendre – propriété d’exception à argan golf – marrakech,marrakech,,10 000 000 DH,"480
+						m²",11 Pièces,2026-06-09 21:50:46.906633,10000000.0,480.0,11.0,autre,vente,20833.33,16.11809565095832,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2671,mubawab,https://www.mubawab.ma/fr/a/8309844/al-maaden-golf-%E2%80%93-propri%C3%A9t%C3%A9-signature-ultra-luxe-en-premi%C3%A8re-ligne-golf-4-000-m%C2%B2-vue-panoramique-exceptionnelle,Al maaden golf – propriété signature ultra luxe en première...,marrakech,,25 000 000 DH,"1600
+						m²",8 Pièces,2026-06-09 21:50:46.907601,25000000.0,1600.0,8.0,autre,inconnu,15625.0,17.034386382832476,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2672,mubawab,https://www.mubawab.ma/fr/a/8087465/villa-d%E2%80%99exception-vue-sur-le-golf-al-maaden,Villa d’Exception Vue sur le Golf AL MAADEN,marrakech,"Agdal,
+								Marrakech",25 000 000 DH,"1000
+						m²",9 Pièces,2026-06-09 21:50:46.908502,25000000.0,1000.0,9.0,villa,inconnu,25000.0,17.034386382832476,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,1.0
+2705,mubawab,https://www.mubawab.ma/fr/a/8320136/urgent-%E2%80%93-off-market-villa-de-luxe-%C3%A0-500-m-du-golf-amelkis-marrakech-produit-rare-700-m%C2%B2-piscine-%C3%A0-d%C3%A9bordement,"URGENT – OFF MARKET, Villa de Luxe à 500 m du golf Amelkis M...",marrakech,,16 600 000 DH,"701
+						m²",7 Pièces,2026-06-09 21:50:46.948194,16600000.0,701.0,7.0,villa,inconnu,23680.46,16.62491325332677,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2719,mubawab,https://www.mubawab.ma/fr/a/8357791/villa-de-haut-standing-%C3%A0-vendre-%C3%A0-ennakhil-palmeraie-4-chambres,Villa de haut standing à vendre à Ennakhil Palmeraie. 4 cham...,marrakech,Villa de haut standing à vendre à Ennakhil Palmeraie. 4 cham...,13 000 000 DH,"2300
+						m²",6 Pièces,2026-06-09 21:50:46.966584,13000000.0,,6.0,villa,vente,,16.38045991542581,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2722,mubawab,https://www.mubawab.ma/fr/pa/8328877/villa-de-haut-standing-%C3%A0-vendre-%C3%A0-route-de-l-ourika-5-chambres,Villa de haut standing à vendre à Route de l'Ourika. 5 chamb...,marrakech,,8 500 000 DH,"355
+						m²",6 Pièces,2026-06-09 21:50:46.970334,8500000.0,355.0,6.0,villa,vente,23943.66,15.955576721460545,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2763,mubawab,https://www.mubawab.ma/fr/a/8294930/superbe-villa-contemporaine-au-style-beldi-chic,Superbe villa contemporaine au style Beldi chic,marrakech,,14 850 000 DH,"450
+						m²",5 Pièces,2026-06-09 21:50:47.072729,14850000.0,450.0,5.0,villa,inconnu,33000.0,16.51351042321298,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2764,mubawab,https://www.mubawab.ma/fr/a/8294901/el%C3%A9gante-propri%C3%A9t%C3%A9-moderne-situ%C3%A9e-dans-une-r%C3%A9sidence-s%C3%A9curis%C3%A9e-de-4-villas,Elégante propriété moderne située dans une résidence sécuris...,marrakech,,13 090 000 DH,"350
+						m²",5 Pièces,2026-06-09 21:50:47.076262,13090000.0,350.0,5.0,autre,inconnu,37400.0,16.387359137886083,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2771,mubawab,https://www.mubawab.ma/fr/pa/8293052/bel-appartement-%C3%A0-vendre-%C3%A0-route-casablanca-surface-de-42-m%C2%B2,Bel appartement à vendre à Route Casablanca. Surface de 42 m...,marrakech,,693 000 DH,"42
+						m²",2 Pièces,2026-06-09 21:50:47.095890,693000.0,42.0,2.0,appartement,vente,16500.0,13.448785278172041,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2797,mubawab,https://www.mubawab.ma/fr/a/8349500/villa-%C3%A0-vendre-de-1448-0-m%C2%B2-%C3%A0-marrakech-route-de-ouarzazate-gzoula-sidi-mbarek,"Villa à Vendre de 1448.0 m² à Marrakech, 
+Route De Ouarzazat...",marrakech,,8 300 000 DH,"Villa à Vendre de 1448.0 m² à Marrakech, 
+Route De Ouarzazat...",7 Pièces,2026-06-09 21:50:47.143408,8300000.0,1448.0,7.0,villa,vente,5732.04,15.931766072766827,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2806,mubawab,https://www.mubawab.ma/fr/a/8354439/autorisee-maison-d-hotes-a-2-pas-du-centre-ville,AUTORISEE maison d'hotes / A 2 pas du centre ville,marrakech,,18 000 000 DH,"1572
+						m²",25 Pièces,2026-06-09 21:50:47.156296,18000000.0,1572.0,,autre,inconnu,11450.38,16.70588231586044,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.6666666666666666
+2813,mubawab,https://www.mubawab.ma/fr/a/8355706/votre-seul-vis-%C3%A0-vis-l-atlas-vna-ok,Votre seul vis à vis: l'ATLAS. VNA ok,marrakech,,7 950 000 DH,"450
+						m²",16 Pièces,2026-06-09 21:50:47.179534,7950000.0,450.0,16.0,autre,inconnu,17666.67,15.888682486630515,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2824,mubawab,https://www.mubawab.ma/fr/pa/8304902/bel-appartement-%C3%A0-vendre-%C3%A0-mhamid-surface-de-60-m%C2%B2,Bel appartement à vendre à Mhamid. Surface de 60 m²,marrakech,,510 000 DH,Bel appartement à vendre à Mhamid. Surface de 60 m²,"Bassatine Al M’Hamid est un projet immobilier résidentiel situé à Marrakech, sur le boulevard Guemassa, au cœur du quartier dynamique de M’Hamid. Ce projet propose des logements accessibles, bien pensés et idéalement situés, répondant aux besoins des familles d’aujourd’hui.
+
+Le projet propose des appartements à partir de 60 m², composés de 3 chambres + salon
+
+Points Fort du projet : proximité calme la qualité des constructions et des finition...",2026-06-09 21:50:47.197737,510000.0,60.0,,appartement,vente,8500.0,13.142166004700508,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.6666666666666666
+2831,mubawab,https://www.mubawab.ma/fr/pa/8294002/villa-ultra-luxe-ascenseur-priv%C3%A9-4-suites-piscine-18m-%E2%80%93-vue-atlas,"Villa Ultra luxe: Ascenseur privé, 4 Suites & Piscine 18m –...",marrakech,,8 000 000 DH,"1255
+						m²",6 Pièces,2026-06-09 21:50:47.210036,8000000.0,1255.0,6.0,villa,inconnu,6374.5,15.89495209964411,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2833,mubawab,https://www.mubawab.ma/fr/pa/8304904/vente-d-un-bel-appartement-%C3%A0-mhamid-3-belles-chambres,Vente d'un bel appartement à Mhamid. 3 belles chambres,marrakech,,576 000 DH,"64
+						m²",3 Chambres,2026-06-09 21:50:47.212027,576000.0,64.0,3.0,appartement,vente,9000.0,13.263862939678027,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2835,mubawab,https://www.mubawab.ma/fr/a/8104728/havre-de-paix-dans-domaine-10-villas,HAVRE de PAIX dans DOMAINE 10 villas,marrakech,,9 200 000 DH,"512
+						m²",15 Pièces,2026-06-09 21:50:47.215174,9200000.0,512.0,15.0,villa,inconnu,17968.75,16.034714042019267,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2854,mubawab,https://www.mubawab.ma/fr/pa/8304903/appartement-%C3%A0-l-achat-%C3%A0-mhamid-3-chambres-agr%C3%A9ables,Appartement à l'achat à Mhamid. 3 chambres agréables,marrakech,,510 000 DH,"60
+						m²",Appartement à l'achat à Mhamid. 3 chambres agréables,2026-06-09 21:50:47.240298,510000.0,60.0,3.0,appartement,vente,8500.0,13.142166004700508,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2861,mubawab,https://www.mubawab.ma/fr/pa/8294003/villa-ultra-luxe-5-suites-cin%C3%A9ma-ascenseur-hammam-piscine-18m,"Villa Ultra Luxe: 5 Suites, Cinéma, Ascenseur, Hammam & Pisc...",marrakech,,8 000 000 DH,"1250
+						m²",7 Pièces,2026-06-09 21:50:47.250016,8000000.0,1250.0,7.0,villa,inconnu,6400.0,15.89495209964411,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2862,mubawab,https://www.mubawab.ma/fr/pa/7115909/appartement-de-72m%C2%B2-en-vente-dyour-al-masjid,Appartement de 72m² en vente Dyour Al Masjid,marrakech,,460 000 DH,Appartement de 72m² en vente Dyour Al Masjid,4 Pièces,2026-06-09 21:50:47.250911,460000.0,72.0,4.0,appartement,vente,6388.89,13.038981768465277,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2863,mubawab,https://www.mubawab.ma/fr/pa/8304905/appartement-%C3%A0-vendre-%C3%A0-mhamid-3-chambres-agr%C3%A9ables,Appartement à vendre à Mhamid. 3 chambres agréables,marrakech,,500 000 DH,"57
+						m²",Appartement à vendre à Mhamid. 3 chambres agréables,2026-06-09 21:50:47.252008,500000.0,57.0,3.0,appartement,vente,8771.93,13.122363377404328,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2875,mubawab,https://www.mubawab.ma/fr/a/8341416/villa-front-de-golf-a-la-vente,Villa front de golf a la vente,marrakech,,9 000 000 DH,"300
+						m²",5 Pièces,2026-06-09 21:50:47.266917,9000000.0,300.0,5.0,villa,vente,30000.0,16.012735135300492,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,0.8333333333333334
+2883,mubawab,https://www.mubawab.ma/fr/a/8123241/offre-de-vente-maison-dwiriya-de-charme-au-c%C5%93ur-de-la-m%C3%A9dina-de-marrakech,Offre de Vente maison Dwiriya de Charme au Cœur de la Médina...,marrakech,Offre de Vente maison Dwiriya de Charme au Cœur de la Médina...,650 000 DH,"40
+						m²",5 Pièces,2026-06-09 21:50:47.275966,650000.0,40.0,5.0,autre,vente,16250.0,13.38472764187182,2026,6,2,2026-Q2,Marrakech-Safi,31.6295,-7.9811,1.0
+2911,mubawab,https://www.mubawab.ma/fr/a/8362114/tr%C3%A8s-bel-appartement-en-location-%C3%A0-hay-hassani-2-chambres,"Très bel appartement en location à Hay Hassani. 
+2 chambres",tanger,"Très bel appartement en location à Hay Hassani. 
+2 chambres",4 000 DH,"60
+						m²","Très bel appartement en location à Hay Hassani. 
+2 chambres",2026-06-09 21:53:02.467032,4000.0,60.0,2.0,appartement,location,66.67,8.294049640102028,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,1.0
+2924,mubawab,https://www.mubawab.ma/fr/a/8354195/villa-%C3%A0-louer-jbel-kbir,Villa à louer jbel kbir,tanger,,35 000 DH,"300
+						m²",7 Pièces,2026-06-09 21:53:02.486080,35000.0,300.0,7.0,villa,location,116.67,10.46310334047155,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+2935,mubawab,https://www.mubawab.ma/fr/a/7805954/location-villa-la-montagne-jebel-kebir-tanger-ref-la336,Location Villa la montagne JEBEL KEBIR Tanger Ref: LA336,tanger,,40 000 DH,"400
+						m²",7 Pièces,2026-06-09 21:53:02.504141,40000.0,400.0,7.0,villa,location,100.0,10.596634733096073,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+2949,mubawab,https://www.mubawab.ma/fr/a/8270552/appartement-%C3%A0-louer-longue-dur%C3%A9e-%C3%A0-moujahidine,Appartement à louer longue durée à moujahidine,tanger,,35 000 DH,"220
+						m²",4 Pièces,2026-06-09 21:53:02.529678,35000.0,220.0,4.0,appartement,location,159.09,10.46310334047155,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+2953,mubawab,https://www.mubawab.ma/fr/a/8339465/bel-appartement-en-location-avec-vue-mer,"Bel appartement en location, avec vue mer",tanger,,35 000 DH,"180
+						m²",5 Pièces,2026-06-09 21:53:02.535298,35000.0,180.0,5.0,appartement,location,194.44,10.46310334047155,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+2961,mubawab,https://www.mubawab.ma/fr/a/8121322/villa-pour-location-logue-dur%C3%A9e-nouinouich,Villa pour location logue durée nouinouich,tanger,,35 000 DH,"200
+						m²",4 Pièces,2026-06-09 21:53:02.547060,35000.0,200.0,4.0,villa,location,175.0,10.46310334047155,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+2979,mubawab,https://www.mubawab.ma/fr/a/8361168/magnifique-villa-%C3%A0-louer-%C3%A0-mediouna-meubl%C3%A9,"Magnifique villa à louer à Mediouna. 
+Meublé",tanger,,55 000 DH,"900
+						m²",4 Pièces,2026-06-09 21:53:02.577918,55000.0,900.0,4.0,villa,location,61.11,10.915088464214607,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+2981,mubawab,https://www.mubawab.ma/fr/a/8360627/appart-meubl%C3%A9-%C3%A0-louer-au-mois,Appart meublé à louer au mois,tanger,,3 000 DH,"60
+						m²",4 Pièces,2026-06-09 21:53:02.580942,3000.0,60.0,4.0,appartement,location,50.0,8.006367567650246,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+2987,mubawab,https://www.mubawab.ma/fr/a/8359663/bel-appartement-en-location-%C3%A0-tanger-city-center-3-grandes-pi%C3%A8ces-porte-blind%C3%A9e-salon-marocain-traditionnel,"Bel appartement en location à Tanger City Center. 
+3 grandes...",tanger,,3 500 DH,"50
+						m²",3 Pièces,2026-06-09 21:53:02.587221,3500.0,50.0,3.0,appartement,location,70.0,8.160518247477505,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3029,mubawab,https://www.mubawab.ma/fr/a/8290986/louez-cet-appartement-route-de-rabat-en-face-kitea,Louez cet appartement route de rabat en face kitea,tanger,,3 200 DH,"75
+						m²",4 Pièces,2026-06-09 21:53:02.630879,3200.0,75.0,4.0,appartement,inconnu,42.67,8.070906088787819,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3066,mubawab,https://www.mubawab.ma/fr/a/8360021/appartement-vide-%C3%A0-louer,Appartement vide à louer,tanger,,3 300 DH,"55
+						m²",3 Pièces,2026-06-09 21:53:02.673336,3300.0,55.0,3.0,appartement,location,60.0,8.101677747454572,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3069,mubawab,https://www.mubawab.ma/fr/a/8263300/bel-appartement-meubl%C3%A9-proche-atacadao-route-rabat,Bel Appartement meublé proche Atacadao Route Rabat,tanger,,4 500 DH,"65
+						m²",3 Pièces,2026-06-09 21:53:02.677924,4500.0,65.0,3.0,appartement,inconnu,69.23,8.411832675758411,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3076,mubawab,https://www.mubawab.ma/fr/a/8360492/appartement,Appartement,tanger,,4 200 DH,"60
+						m²",3 Pièces,2026-06-09 21:53:02.690713,4200.0,60.0,3.0,appartement,inconnu,70.0,8.34283980427146,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3078,mubawab,https://www.mubawab.ma/fr/a/8360372/villa-d-exception-%C3%A0-louer-%C3%A0-boubana,Villa d'exception à louer à Boubana,tanger,,35 000 DH,"950
+						m²",11 Pièces,2026-06-09 21:53:02.693645,35000.0,950.0,11.0,villa,location,36.84,10.46310334047155,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3083,mubawab,https://www.mubawab.ma/fr/a/8201632/f3-non-meubl%C3%A9-%C3%A0-marjane-rabat,F3 non meublé à Marjane Rabat,tanger,,4 300 DH,"87
+						m²",3 Pièces,2026-06-09 21:53:02.701122,4300.0,87.0,3.0,autre,inconnu,49.43,8.366370301681654,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3098,mubawab,https://www.mubawab.ma/fr/a/8242142/villa-meubl%C3%A9e-%C3%A0-louer-%E2%80%93-bella-vista,Villa Meublée à Louer – Bella Vista,tanger,,45 000 DH,"828
+						m²",9 Pièces,2026-06-09 21:53:02.727991,45000.0,828.0,9.0,villa,location,54.35,10.714417768752456,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3099,mubawab,https://www.mubawab.ma/fr/a/8305652/appartement-meubl%C3%A9-a-louer-moujahidine-tanger,"Appartement Meublé A Louer Moujahidine 
+Tanger",tanger,,35 000 DH,"220
+						m²",4 Pièces,2026-06-09 21:53:02.729831,35000.0,220.0,4.0,appartement,location,159.09,10.46310334047155,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3100,mubawab,https://www.mubawab.ma/fr/a/8280806/appartement-meubl%C3%A9-a-louer-jbel-kbir-tanger,"Appartement Meublé A Louer Jbel Kbir 
+Tanger",tanger,,35 000 DH,"470
+						m²",6 Pièces,2026-06-09 21:53:02.731024,35000.0,470.0,6.0,appartement,location,74.47,10.46310334047155,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3115,mubawab,https://www.mubawab.ma/fr/a/8251522/local-vide-%C3%A0-louer-%E2%80%93-place-mozart,Local vide à Louer – Place Mozart,tanger,,35 000 DH,"394
+						m²",1 Pièce,2026-06-09 21:53:02.755633,35000.0,394.0,1.0,autre,location,88.83,10.46310334047155,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3121,mubawab,https://www.mubawab.ma/fr/a/8250484/villa-%C3%A0-louer-%C3%A0-malabata-tanger,"Villa à louer à Malabata 
+Tanger",tanger,,35 000 DH,"300
+						m²",6 Pièces,2026-06-09 21:53:02.765510,35000.0,300.0,6.0,villa,location,116.67,10.46310334047155,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3123,mubawab,https://www.mubawab.ma/fr/a/8195658/location-villa-avec-piscine-%C3%A0-rah-rah-tanger,Location villa avec piscine à Rah Rah Tanger,tanger,,40 000 DH,"450
+						m²",6 Pièces,2026-06-09 21:53:02.767847,40000.0,450.0,6.0,villa,location,88.89,10.596634733096073,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3130,mubawab,https://www.mubawab.ma/fr/a/8359635/louez-cet-appartement-%C3%A0-zone-franche-de-jaznaya-surface-totale-45-m%C2%B2-meubl%C3%A9,"Louez cet appartement à Zone franche de Jaznaya.
+Surface tot...",tanger,,3 000 DH,"45
+						m²",1 Pièce,2026-06-09 21:53:02.777192,3000.0,45.0,1.0,appartement,inconnu,66.67,8.006367567650246,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3138,mubawab,https://www.mubawab.ma/fr/a/8359746/appartement-meubl%C3%A9-%C3%A0-louer-par-mois-%C3%A0-tanger,Appartement meublé à louer par mois à Tanger,tanger,,4 000 DH,"85
+						m²",3 Pièces,2026-06-09 21:53:02.791478,4000.0,85.0,3.0,appartement,location,47.06,8.294049640102028,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3139,mubawab,https://www.mubawab.ma/fr/a/8359489/location-d-un-appartement-en-centre-2-pi%C3%A8ces-bien-meubl%C3%A9,Location d'un appartement en Centre. 2 pièces. Bien meublé,tanger,,1 300 DH,"250
+						m²",Location d'un appartement en Centre. 2 pièces. Bien meublé,2026-06-09 21:53:02.793121,1300.0,250.0,2.0,appartement,location,5.2,7.170119543449628,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3142,mubawab,https://www.mubawab.ma/fr/a/8359408/chambre-%C3%A0-louer-au-centre-ville-%C3%A9toile-de-tanger,Chambre à louer au centre-ville Étoile de Tanger,tanger,,2 000 DH,"150
+						m²",3 Pièces,2026-06-09 21:53:02.797599,2000.0,150.0,3.0,chambre,location,13.33,7.600902459542082,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3152,mubawab,https://www.mubawab.ma/fr/a/8358985/je-met-en-location-un-studio-au-centre-ville,Je met en location un studio au centre ville,tanger,,3 500 DH,"60
+						m²",1 Pièce,2026-06-09 21:53:02.816321,3500.0,60.0,1.0,studio,location,58.33,8.160518247477505,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3176,mubawab,https://www.mubawab.ma/fr/a/8211291/appartement-vide-%C3%A0-val-fleuri-en-location,Appartement vide à val fleuri en location,tanger,,3 500 DH,"60
+						m²",3 Pièces,2026-06-09 21:53:02.862209,3500.0,60.0,3.0,appartement,location,58.33,8.160518247477505,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3183,mubawab,https://www.mubawab.ma/fr/a/8305628/appartement-%C3%A0-louer,Appartement à louer,tanger,,3 700 DH,"120
+						m²",5 Pièces,2026-06-09 21:53:02.874155,3700.0,120.0,5.0,appartement,location,30.83,8.216088098632316,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3188,mubawab,https://www.mubawab.ma/fr/a/8357798/superbe-appartement-%C3%A0-louer-%C3%A0-zone-franche-de-jaznaya-surface-de-45-m%C2%B2-syst%C3%A8me-de-parabole-et-r%C3%A9sidence-s%C3%A9curis%C3%A9e,"Superbe appartement à louer à Zone franche de Jaznaya. 
+Surf...",tanger,,3 000 DH,"40
+						m²",1 Pièce,2026-06-09 21:53:02.883865,3000.0,40.0,1.0,appartement,location,75.0,8.006367567650246,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3213,mubawab,https://www.mubawab.ma/fr/a/7451189/exclusive-villa-%C3%A0-louer-%C3%A0-tanger-centre-ville,Exclusive villa à louer à TANGER Centre ville,tanger,,35 000 DH,"600
+						m²",10 Pièces,2026-06-09 21:53:02.927154,35000.0,600.0,10.0,villa,location,58.33,10.46310334047155,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3223,mubawab,https://www.mubawab.ma/fr/a/8221299/villa-de-prestige-%C3%A0-louer-%E2%80%93-quartier-el-randori,Villa de Prestige à Louer – Quartier El Randori,tanger,,35 000 DH,"400
+						m²",7 Pièces,2026-06-09 21:53:02.938522,35000.0,400.0,7.0,villa,location,87.5,10.46310334047155,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3226,mubawab,https://www.mubawab.ma/fr/a/8356287/loue-chambre-ind%C3%A9pendante,Loue chambre indépendante,tanger,,1 100 DH,"15
+						m²",1 Pièce,2026-06-09 21:53:02.941491,1100.0,15.0,1.0,chambre,inconnu,73.33,7.003065458786462,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3228,mubawab,https://www.mubawab.ma/fr/a/8263376/belle-villa-de-7-chambres-%C3%A0-louer-%C3%A0-tanger,Belle villa de 7 chambres à louer à TANGER,tanger,,35 000 DH,"600
+						m²",Belle villa de 7 chambres à louer à TANGER,2026-06-09 21:53:02.943613,35000.0,600.0,7.0,villa,location,58.33,10.46310334047155,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3230,mubawab,https://www.mubawab.ma/fr/a/8356038/appartement-meubl%C3%A9-avec-3-chambres-et-fa%C3%A7ades,Appartement meublé avec 3 chambres et Façades,tanger,,4 500 DH,"100
+						m²",Appartement meublé avec 3 chambres et Façades,2026-06-09 21:53:02.945981,4500.0,100.0,3.0,appartement,inconnu,45.0,8.411832675758411,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3244,mubawab,https://www.mubawab.ma/fr/a/8355089/bel-appartement-%C3%A0-louer-pr%C3%A8s-des-march%C3%A9s-de-la-paix-superficie-totale-de-80-m%C2%B2-porte-solide-r%C3%A9sidence-s%C3%A9curis%C3%A9e,Bel appartement à louer près des marchés de la paix. Superfi...,tanger,,3 100 DH,"80
+						m²",2 Pièces,2026-06-09 21:53:02.960703,3100.0,80.0,2.0,appartement,location,38.75,8.039157390473237,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3247,mubawab,https://www.mubawab.ma/fr/a/8354949/studio-lumineux-%E2%80%93-tanja-balia,Studio Lumineux – Tanja Balia,tanger,,4 500 DH,"60
+						m²",2 Pièces,2026-06-09 21:53:02.964165,4500.0,60.0,2.0,studio,inconnu,75.0,8.411832675758411,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3256,mubawab,https://www.mubawab.ma/fr/a/8268838/appartement-de-location,Appartement de location,tanger,,1 800 DH,"65
+						m²",1 Pièce,2026-06-09 21:53:02.973767,1800.0,65.0,1.0,appartement,location,27.69,7.495541943884256,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3259,mubawab,https://www.mubawab.ma/fr/a/8322277/appartement-sea-view-%E2%80%93-malabata,Appartement Sea View – Malabata,tanger,,1 500 DH,"120
+						m²",4 Pièces,2026-06-09 21:53:02.976648,1500.0,120.0,4.0,appartement,inconnu,12.5,7.313220387090301,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3288,mubawab,https://www.mubawab.ma/fr/a/8353928/appartement-joli-%C3%A0-louer-%C3%A0-maison-de-la-presse-1-bonne-chambre-porte-solide-r%C3%A9sidence-s%C3%A9curis%C3%A9e,Appartement joli à louer à Maison de la presse. 1 bonne cham...,tanger,,3 300 DH,"70
+						m²",1 Pièce,2026-06-09 21:53:03.008429,3300.0,70.0,1.0,appartement,location,47.14,8.101677747454572,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3319,mubawab,https://www.mubawab.ma/fr/a/8353407/bel-appartement-%C3%A0-louer-dans-le-quartier-ahlan-superficie-de-70-m%C2%B2-porte-solide-r%C3%A9sidence-s%C3%A9curis%C3%A9e,Bel appartement à louer dans le quartier Ahlan. Superficie d...,tanger,,3 500 DH,"70
+						m²",2 Pièces,2026-06-09 21:53:03.042634,3500.0,70.0,2.0,appartement,location,50.0,8.160518247477505,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3325,mubawab,https://www.mubawab.ma/fr/a/8315603/villa-a-vendre-1717,Villa a vendre 1717,tanger,,8 800 000 DH,"1717
+						m²",9 Pièces,2026-06-09 21:53:03.049089,8800000.0,1717.0,9.0,villa,vente,5125.22,15.990262279448435,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3343,mubawab,https://www.mubawab.ma/fr/a/8232273/une-chambre-%C3%A0-louer-en-centre-pr%C3%A8s-de-l-%C3%A9cole-am%C3%A9ricaine-bien-meubl%C3%A9,Une chambre à louer en Centre près de l'école américaine Bie...,tanger,,3 450 DH,,4 Pièces,2026-06-09 21:53:03.067697,3450.0,,4.0,chambre,location,,8.146129510025405,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.6666666666666666
+3363,mubawab,https://www.mubawab.ma/fr/a/8351726/villa-a-louer-a-3-min-de-iberia,Villa a louer a 3 min de Iberia,tanger,,45 000 DH,"500
+						m²",12 Pièces,2026-06-09 21:53:03.088311,45000.0,500.0,12.0,villa,location,90.0,10.714417768752456,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3367,mubawab,https://www.mubawab.ma/fr/a/8220298/studio-meubl%C3%A9-avec-vue-imprenable%E2%80%93-oued-alian,Studio meublé avec vue imprenable– Oued Alian,tanger,,4 000 DH,"60
+						m²",2 Pièces,2026-06-09 21:53:03.092161,4000.0,60.0,2.0,studio,inconnu,66.67,8.294049640102028,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3382,mubawab,https://www.mubawab.ma/fr/a/8338399/villa-d%E2%80%99exception-%C3%A0-vendre-%E2%80%93-quartier-m%C3%A9diona,Villa d’Exception à Vendre – Quartier Médiona,tanger,,12 000 000 DH,"1200
+						m²",8 Pièces,2026-06-09 21:53:03.107800,12000000.0,1200.0,8.0,villa,vente,10000.0,16.300417207752275,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3392,mubawab,https://www.mubawab.ma/fr/a/8230458/penthouse-%C3%A0-malabata-hills,Penthouse à Malabata Hills,tanger,,10 248 000 DH,"427
+						m²",9 Pièces,2026-06-09 21:53:03.118085,10248000.0,427.0,9.0,penthouse,inconnu,24000.0,16.142593122558708,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3418,mubawab,https://www.mubawab.ma/fr/a/8143378/vente-villa-1040-m%C2%B2-boubana-tanger-ref-va401,Vente Villa 1040 m² BOUBANA Tanger Ref: VA401,tanger,,12 700 000 DH,Vente Villa 1040 m² BOUBANA Tanger Ref: VA401,11 Pièces,2026-06-09 21:53:03.159294,12700000.0,1040.0,11.0,villa,vente,12211.54,16.35711255142882,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3427,mubawab,https://www.mubawab.ma/fr/a/8351309/villa-de-haut-standing-%E2%80%93-boubana,Villa de Haut Standing – Boubana,tanger,,7 550 000 DH,"200
+						m²",9 Pièces,2026-06-09 21:53:03.196946,7550000.0,200.0,9.0,villa,inconnu,37750.0,15.837058121225207,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3435,mubawab,https://www.mubawab.ma/fr/a/8221249/villa-d%E2%80%99exception-%C3%A0-vendre-898m%C2%B2,"Villa d’Exception à Vendre, 898m²",tanger,,12 000 000 DH,"Villa d’Exception à Vendre, 898m²",8 Pièces,2026-06-09 21:53:03.216503,12000000.0,898.0,8.0,villa,vente,13363.03,16.300417207752275,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3459,mubawab,https://www.mubawab.ma/fr/a/7862587/villa-premium-%C3%A0-saisir-sans-vis-a-vis,Villa premium à saisir sans vis a vis,tanger,,15 500 000 DH,"2200
+						m²",7 Pièces,2026-06-09 21:53:03.253585,15500000.0,,7.0,villa,inconnu,,16.556350581889475,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.6666666666666666
+3484,mubawab,https://www.mubawab.ma/fr/a/8349762/somptieuse-villa-neuve-a-jbelkebir,Somptieuse villa neuve a jbelkebir,tanger,,19 000 000 DH,"836
+						m²",4 Pièces,2026-06-09 21:53:03.283116,19000000.0,836.0,4.0,villa,inconnu,22727.27,16.759949537130716,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3485,mubawab,https://www.mubawab.ma/fr/a/8348981/superbe-villa-vue-sur-mer-et-tanger,Superbe villa vue sur mer et tanger,tanger,,16 500 000 DH,"1000
+						m²",5 Pièces,2026-06-09 21:53:03.284680,16500000.0,1000.0,5.0,villa,inconnu,16500.0,16.61887093887081,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3515,mubawab,https://www.mubawab.ma/fr/a/8245136/lancement-projet-appartements-a-vendre-pr%C3%A8s-mahata,Lancement projet appartements a vendre près mahata,tanger,,380 000 DH,"50
+						m²",1 Pièce,2026-06-09 21:53:03.319384,380000.0,50.0,1.0,appartement,vente,7600.0,12.84792653170257,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3516,mubawab,https://www.mubawab.ma/fr/a/8245080/projet-d-appartements-a-vendre-sur-route-de-rabat,Projet d appartements a vendre sur route de rabat,tanger,,450 000 DH,"52
+						m²",1 Pièce,2026-06-09 21:53:03.320285,450000.0,52.0,1.0,appartement,vente,8653.85,13.017002861746503,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3532,mubawab,https://www.mubawab.ma/fr/a/8321754/appartement-premium-%C3%A0-la-marina-bay,Appartement premium à la Marina Bay,tanger,,18 000 000 DH,"215
+						m²",4 Pièces,2026-06-09 21:53:03.336429,18000000.0,215.0,4.0,appartement,inconnu,83720.93,16.70588231586044,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3572,mubawab,https://www.mubawab.ma/fr/a/8280462/villa-de-haut-standing-%C3%A0-vendre-%C3%A0-jbila-avec-piscine-et-vue-mer,Villa de haut standing à vendre à jbila avec piscine et vue...,tanger,,8 100 000 DH,"823
+						m²",12 Pièces,2026-06-09 21:53:03.380951,8100000.0,823.0,12.0,villa,vente,9842.04,15.907374619642667,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3585,mubawab,https://www.mubawab.ma/fr/pa/8146450/superbe-appartement-%C3%A0-vendre-%C3%A0-gueznaia,Superbe appartement à vendre à Gueznaia,tanger,,560 000 DH,"66
+						m²",1 Pièce,2026-06-09 21:53:03.398318,560000.0,66.0,1.0,appartement,vente,8484.85,13.235692062711331,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3619,mubawab,https://www.mubawab.ma/fr/a/8327797/superbe-villa-vue-mer,Superbe villa vue mer,tanger,,10 200 000 DH,"850
+						m²",5 Pièces,2026-06-09 21:53:03.442158,10200000.0,850.0,5.0,villa,inconnu,12000.0,16.1378982782545,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3628,mubawab,https://www.mubawab.ma/fr/a/8268175/appartement-%C3%A0-vendre-%C3%A0-marjane-route-rabat,Appartement à vendre à Marjane route Rabat,tanger,,550 000 DH,"64
+						m²",2 Pièces,2026-06-09 21:53:03.454964,550000.0,64.0,2.0,appartement,vente,8593.75,13.217673557208654,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3635,mubawab,https://www.mubawab.ma/fr/a/8337623/appartement-%C3%A0-vendre-moujahidine,Appartement à vendre moujahidine,tanger,,580 000 DH,"33
+						m²",2 Pièces,2026-06-09 21:53:03.463413,580000.0,33.0,2.0,appartement,vente,17575.76,13.270783382522602,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3653,mubawab,https://www.mubawab.ma/fr/a/8293333/villa-neuve-de-haut-standing-avec-piscine-%E2%80%93-sania-tanger,"Villa Neuve de Haut Standing avec Piscine – Sania, Tanger",tanger,,7 000 000 DH,"200
+						m²",7 Pièces,2026-06-09 21:53:03.486488,7000000.0,200.0,7.0,villa,inconnu,35000.0,15.761420707019587,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3662,mubawab,https://www.mubawab.ma/fr/a/8316709/villa-sur-jbel-lekbir,Villa sur Jbel lekbir,tanger,,18 000 000 DH,"750
+						m²",8 Pièces,2026-06-09 21:53:03.500285,18000000.0,750.0,8.0,villa,inconnu,24000.0,16.70588231586044,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3667,mubawab,https://www.mubawab.ma/fr/a/8218758/superbe-appartement-avec-vue-panoramique-sur-toute-la-baie-de-tanger,Superbe appartement avec vue panoramique sur toute la baie d...,tanger,,8 000 000 DH,"366
+						m²",4 Pièces,2026-06-09 21:53:03.509441,8000000.0,366.0,4.0,appartement,inconnu,21857.92,15.89495209964411,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3688,mubawab,https://www.mubawab.ma/fr/a/8264790/appartement-124-m%C2%B2-%E2%80%93-%C3%A9l%C3%A9gance-vue-mer-%C3%A0-malabata-hills,Appartement 124 m² – Élégance & Vue Mer à Malabata Hills,tanger,,6 510 000 DH,Appartement 124 m² – Élégance & Vue Mer à Malabata Hills,5 Pièces,2026-06-09 21:53:03.542757,6510000.0,124.0,5.0,appartement,inconnu,52500.0,15.688850014184752,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3731,mubawab,https://www.mubawab.ma/fr/a/8134544/joli-appartement-neuf-%C3%A0-vendre,Joli appartement neuf à vendre,tanger,,550 000 DH,"64
+						m²",3 Pièces,2026-06-09 21:53:03.598147,550000.0,64.0,3.0,appartement,vente,8593.75,13.217673557208654,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3752,mubawab,https://www.mubawab.ma/fr/a/8348608/villa-a-vendre-moujahidine-tanger,"Villa A Vendre Moujahidine 
+Tanger",tanger,,10 000 000 DH,"350
+						m²",8 Pièces,2026-06-09 21:53:03.620726,10000000.0,350.0,8.0,villa,vente,28571.43,16.11809565095832,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3755,mubawab,https://www.mubawab.ma/fr/a/8252682/villa-vide-%C3%A0-vendre-%E2%80%93-bella-vista,Villa Vide à Vendre – Bella Vista,tanger,,9 500 000 DH,"391
+						m²",7 Pièces,2026-06-09 21:53:03.623698,9500000.0,391.0,7.0,villa,vente,24296.68,16.06680235657077,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3756,mubawab,https://www.mubawab.ma/fr/a/8235938/maison-de-style-%C3%A0-vendre-%E2%80%93-vue-mer-%E2%80%93-marchane,Maison de style à vendre – Vue Mer – Marchane,tanger,,9 500 000 DH,"500
+						m²",10 Pièces,2026-06-09 21:53:03.624654,9500000.0,500.0,10.0,autre,vente,19000.0,16.06680235657077,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3759,mubawab,https://www.mubawab.ma/fr/a/8276292/villa-meubl%C3%A9e-a-vendre-achakar-tanger,"Villa Meublée A Vendre 
+Achakar 
+Tanger",tanger,,9 000 000 DH,"1500
+						m²",17 Pièces,2026-06-09 21:53:03.627368,9000000.0,1500.0,17.0,villa,vente,6000.0,16.012735135300492,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3794,mubawab,https://www.mubawab.ma/fr/a/7863252/vente-villa-520-m%C2%B2-boubana-tanger-ref-vz374,Vente VILLA 520 m² BOUBANA Tanger Ref: VZ374,tanger,,8 500 000 DH,Vente VILLA 520 m² BOUBANA Tanger Ref: VZ374,9 Pièces,2026-06-09 21:53:03.661625,8500000.0,520.0,9.0,villa,vente,16346.15,15.955576721460545,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3814,mubawab,https://www.mubawab.ma/fr/a/8358565/studio-%C3%A0-vendre-route-de-rabat-marjane,Studio à Vendre Route de Rabat Marjane,tanger,,530 000 DH,"41
+						m²",1 Pièce,2026-06-09 21:53:03.681165,530000.0,41.0,1.0,studio,vente,12926.83,13.180632285528304,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3834,mubawab,https://www.mubawab.ma/fr/a/7437996/splendide-riad-%C3%A0-marchan,Splendide Riad à Marchan,tanger,,8 000 000 DH,"300
+						m²",10 Pièces,2026-06-09 21:53:03.701329,8000000.0,300.0,10.0,riad,inconnu,26666.67,15.89495209964411,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
+3856,mubawab,https://www.mubawab.ma/fr/a/8357596/villa-de-luxe-15-minutes-de-tanger,Villa de Luxe 15 minutes de Tanger,tanger,,7 500 000 DH,"940
+						m²",8 Pièces,2026-06-09 21:53:03.723141,7500000.0,940.0,8.0,villa,inconnu,7978.72,15.830413578506539,2026,6,2,2026-Q2,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,0.8333333333333334
